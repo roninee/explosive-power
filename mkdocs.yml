@@ -26,4 +26,4 @@ extra_css:
   - stylesheets/extra.css
 plugins:
   - search # necessary for search to work
-  - awesome-pages
+  - awesome-nav
