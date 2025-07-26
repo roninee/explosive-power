@@ -2,6 +2,8 @@ site_name: My Docs
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+  favicon: images/favicon.png
+
   features:
   - content.code.copy
   - search.suggest
@@ -26,4 +28,5 @@ extra_css:
   - stylesheets/extra.css
 plugins:
   - search # necessary for search to work
-  - awesome-nav
+  - literate-nav
+  # - awesome-nav
