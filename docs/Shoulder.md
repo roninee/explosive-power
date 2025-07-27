@@ -10,7 +10,7 @@ almost best：scoop press（前束）， 侧平举(中束)，Dumbbell Hip Hugger
 
 
 
-##  健人蓋伊三健客——如果一個肌群【只挑一個動作練】
+##  盖伊三人组：一个动作
 
 * 哑铃坐姿press——前，中
 * db 侧飞鸟——中

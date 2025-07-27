@@ -46,7 +46,7 @@ best： Alt. Standing DB Curls
 
 almost best： Incline DB Curls , Chinups, ez Barbell Curls 
 
-##  健人蓋伊三健客——如果一個肌群【只挑一個動作練】
+##  盖伊三人组：一个动作
 
 背部：一致推荐 *引体向上*
 

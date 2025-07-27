@@ -61,7 +61,7 @@ best： barbell hip thrust
 
 almost best：  cable pull through， DB leaning step up， gluteus bridge curl / gluteus ham rises.， Slick floor bridge curl ，Barbell RDL's ， low bar squats.       ——（太多了，总结DB leaning step up， low bar squats.  ）
 
-##  健人蓋伊三健客——如果一個肌群【只挑一個動作練】
+##  盖伊三人组：一个动作
 
 大腿：高杠深蹲，高杠深蹲，保加利亚单腿深蹲(盖伊)
 
