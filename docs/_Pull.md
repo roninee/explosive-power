@@ -76,7 +76,7 @@ Based on the results of this experiment, I bet the following would be one kick-a
 
 ##  The Best And Worst Back Exercises (Ranked By Science)
 
-![image-20250722220227785](../image-20250722220227785.png)
+![image-20250722220227785](../images/image-20250722220227785.png)
 
 > S:  Wide-Grip lat Pulldown, Neutral-Grip lat Pulldown, Meadows Row， chest support row（健身房有），cable row
 >
@@ -86,7 +86,7 @@ Based on the results of this experiment, I bet the following would be one kick-a
 
 ##  The Best And Worst Biceps Exercises
 
-![image-20250722221512118](../image-20250722221512118.png)
+![image-20250722221512118](../images/image-20250722221512118.png)
 
 > S：db preacher curl, db preacher hammer curl
 >

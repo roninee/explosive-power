@@ -209,7 +209,7 @@ Lunges can be incorporated as a primary lower body strength training movement fo
 
 ###  Push (Upper Body) 推举（上身）
 
-![image-20250725110654412](../image-20250725110654412.png)
+![image-20250725110654412](../images/image-20250725110654412.png)
 
 ###  Pull (Upper Body) 拉（上身）
 
@@ -225,7 +225,7 @@ Lunges can be incorporated as a primary lower body strength training movement fo
 
 ###  Loaded Carry 负重携带
 
-![image-20250725111056059](../image-20250725111056059.png)
+![image-20250725111056059](../images/image-20250725111056059.png)
 
 **Loaded carries are one hell of a way to build resilient core stiffness, grip strength, and improved shoulder stability**, all while developing a brutal total body work capacity.
 **负重行走是锻炼核心力量、握力、肩部稳定性的好方法** ，同时还能提高全身的工作能力。

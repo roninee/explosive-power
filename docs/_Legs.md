@@ -88,7 +88,7 @@ Based on the results of this experiment, I bet the following would be one kick-a
 
 ##  The Best & Worst Glute Exercises
 
-![image-20250722212715403](../image-20250722212715403.png)
+![image-20250722212715403](../images/image-20250722212715403.png)
 
 > S ：machine hip abduction，walking lunge，smith lunge——整个S系列让我困惑，machine太简单，lunge对膝盖要求很高
 >
@@ -100,7 +100,7 @@ Based on the results of this experiment, I bet the following would be one kick-a
 
 ##  The Best & Worst QUAD(**Quadriceps**) Exercises (Ranked Using Science)
 
-![image-20250722214649634](../image-20250722214649634.png)
+![image-20250722214649634](../images/image-20250722214649634.png)
 
 >S : Back squat,  hack squat（肩膀间距除非可调节，否则不做），pendulum squat，保加利亚split squat
 >
