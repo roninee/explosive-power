@@ -93,7 +93,7 @@ But you’ll also use assistance exercises, which will increase the rate of prog
 After week 10, take three easy days and then test your new 1RM.
 第 10 周后，休息三天，然后测试您的新 1RM。
 
-![Bent-Over-Barbell-Row](../6641de892f9202d709582647ce98389f06f0d79f.jpeg)
+![Bent-Over-Barbell-Row](../images/6641de892f9202d709582647ce98389f06f0d79f.jpeg)
 
 ####  The Assistance Work 援助工作
 
@@ -210,7 +210,7 @@ Use only assistance movements where you can use more weight than on the main lif
 
 ####  The Complete Power Look Program 完整的 Power Look 计划
 
-![Back](../31d9d1afc7aa7e57f66f199ea77c304051303b0c.jpeg)
+![Back](../images/31d9d1afc7aa7e57f66f199ea77c304051303b0c.jpeg)
 
 #####  Week 1 – Day 1 第 1 周 - 第 1 天
 
