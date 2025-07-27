@@ -8,6 +8,7 @@ theme:
   - content.code.copy
   - search.suggest
   - search.highlight
+  # - toc.integrate
   palette:
 
     # Palette toggle for light mode
@@ -28,5 +29,6 @@ extra_css:
   - stylesheets/extra.css
 plugins:
   - search # necessary for search to work
-  - literate-nav
+  - awesome-pages
   # - awesome-nav
+
