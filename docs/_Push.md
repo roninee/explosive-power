@@ -67,7 +67,7 @@ Based on the results of this experiment, I bet the following would be one kick-a
 
 by [Jeff Nippard](https://www.youtube.com/@JeffNippard)
 
-![image-20250722202634263](../images/image-20250722202634263.png)
+![image-20250722202634263](./images/image-20250722202634263.png)
 
 |      |                                                              |
 | ---- | ------------------------------------------------------------ |
@@ -84,7 +84,7 @@ by [Jeff Nippard](https://www.youtube.com/@JeffNippard)
 
 ##  The Best & Worst TRICEPS Exercises 
 
-![image-20250722210357809](../images/image-20250722210357809.png)
+![image-20250722210357809](./images/image-20250722210357809.png)
 
 
 
@@ -94,7 +94,7 @@ by [Jeff Nippard](https://www.youtube.com/@JeffNippard)
 >
 > A：1 Arm DB overhead extension，哑铃平板屈伸——类似S级别的杠铃版本
 >
-> ![image-20250722210953553](../images/image-20250722210953553.png)
+> ![image-20250722210953553](./images/image-20250722210953553.png)
 >
 > 
 
@@ -121,4 +121,4 @@ by [Jeff Nippard](https://www.youtube.com/@JeffNippard)
 ↓  
 【辅助】Cable伐木 or 悬垂腿举（核心 + 姿态修复）
 
-![image-20250722101648998](../images/image-20250722101648998.png)
+![image-20250722101648998](./images/image-20250722101648998.png)

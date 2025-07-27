@@ -23,9 +23,9 @@ by Dr. John Rusin
 
 以下是基本的深蹲进阶步骤，用于帮助运动员和举重运动员确定起始点和最佳深蹲模式。我们从基本动作开始，然后逐步过渡到高级动作：
 
-![Squat 1 and 2](../images/e5d308dc82732d6991d629a69b9d173d6acc1094.jpeg)
+![Squat 1 and 2](./images/e5d308dc82732d6991d629a69b9d173d6acc1094.jpeg)
 
-![Squat 3 and 4](../images/a3aac5bdf85af890b423b528a56a29ed3569c36a.jpeg)
+![Squat 3 and 4](./images/a3aac5bdf85af890b423b528a56a29ed3569c36a.jpeg)
 
 正如你所见，**杠铃深蹲排在最后**。看看你的健身房。深蹲架上背着大杠铃的人，有多少人姿势正确？有多少人看起来正准备做牵引动作？是的，他们需要先回到自重深蹲，把这个动作练好。
 
@@ -45,9 +45,9 @@ The hinge is one of the most important patterns when it comes to protecting your
 This pattern needs to be slowly implemented at lower levels to allow motor relearning to take place. Here are the main progressions used to reactivate the hip hinge from the ground up:
 这种模式需要在较低水平上缓慢实施，以便进行运动再学习。以下是用于从头开始重新激活髋关节铰链的主要进阶步骤：
 
-![Hinge 1-4](../images/92d7e5c5346d0f1bd8a262c4dd86b0f6e1b53a81.jpeg)
+![Hinge 1-4](./images/92d7e5c5346d0f1bd8a262c4dd86b0f6e1b53a81.jpeg)
 
-![Hinge 4-7](../images/80eff5e3d8a6a179441d4d8f07047b05cf91f072.jpeg)
+![Hinge 4-7](./images/80eff5e3d8a6a179441d4d8f07047b05cf91f072.jpeg)
 
 1. Bodyweight RDL (Romanian Deadlift)
 2. Dumbbell RDL 
@@ -65,11 +65,11 @@ This pattern needs to be slowly implemented at lower levels to allow motor relea
 
 #####  Single-Leg Pattern Progressions 单腿模式进展
 
-![Lunge 1-2](../images/919e7bd2c00835623fee275727c90926f7b693e8.jpeg)
+![Lunge 1-2](./images/919e7bd2c00835623fee275727c90926f7b693e8.jpeg)
 
-![Lunge 3-4](../images/eed1a437f645594492a6831d9f4bfa7b9bac3a16.jpeg)
+![Lunge 3-4](./images/eed1a437f645594492a6831d9f4bfa7b9bac3a16.jpeg)
 
-![Lunge 5-6](../images/aa267682d5f5f3800c2a4bbb089818737509ba6f.jpeg)
+![Lunge 5-6](./images/aa267682d5f5f3800c2a4bbb089818737509ba6f.jpeg)
 
 1. Split Squat 
 2. Back Foot Elevated Split Squat
@@ -100,9 +100,9 @@ In the lunge pattern, be sure to include BOTH the more knee-dominant variations 
 
 > 由于心理因素和可能的关节因素，只考虑以下动作：上斜卧推，过顶推举
 
-![Horizontal Push 1-2](../images/20e7b9d23f29c2dacd6963fb3a4040441eac0bfa.jpeg)
+![Horizontal Push 1-2](./images/20e7b9d23f29c2dacd6963fb3a4040441eac0bfa.jpeg)
 
-![Horizontal Push 3-4](../images/3f7c0b5f7f2e4a79f220cda6504360ef7b6af2b4.jpeg)
+![Horizontal Push 3-4](./images/3f7c0b5f7f2e4a79f220cda6504360ef7b6af2b4.jpeg)
 
 1. Hands Elevated Push-Up 双手高举俯卧撑
 2. Push-Up 俯卧撑
@@ -111,7 +111,7 @@ In the lunge pattern, be sure to include BOTH the more knee-dominant variations 
 
 #####  Vertical Pushing 垂直推
 
-![Vertical Pushing](../images/5079d5dd7e37edeec3d28ee3c8da9730931ee154.jpeg)
+![Vertical Pushing](./images/5079d5dd7e37edeec3d28ee3c8da9730931ee154.jpeg)
 
 1. Single-Arm Dumbbell Overhead Press
 2. Dumbbell Overhead Press 
@@ -136,9 +136,9 @@ In order to create full-body stability at the shoulders through the pull, the ho
 
 #####  Horizontal Pulling 水平拉动
 
-![Horizontal Pulling 1-2](../images/06fc1fd84dd790552761b1e20ecb7fe8a72a28c5.jpeg)
+![Horizontal Pulling 1-2](./images/06fc1fd84dd790552761b1e20ecb7fe8a72a28c5.jpeg)
 
-![Horizontal Pulling 3-4](../images/9e430c73d2d817fdbf522850933f13f7c987f413.jpeg)
+![Horizontal Pulling 3-4](./images/9e430c73d2d817fdbf522850933f13f7c987f413.jpeg)
 
 1. Chest Supported Row 胸部支撑划船
 2. Inverted Row 倒立划船
@@ -152,7 +152,7 @@ The vertical pull pattern needs to be de-emphasized in training sessions, and re
 
 #####  Vertical Pulling 垂直拉动
 
-![Vertical Pulling](../images/d13399ca7b7109a0764166c14281ccf95503dadd.jpeg)
+![Vertical Pulling](./images/d13399ca7b7109a0764166c14281ccf95503dadd.jpeg)
 
 1. Lat Pulldown 引体向上
 2. Assisted Pull-Up 辅助引体向上
@@ -174,7 +174,7 @@ Moving your body through space with smooth stability and control has become a lo
 
 #####  Carry and Locomotion Pattern Progressions 携带和运动模式进展
 
-![Carry](../images/684d95ba117e6cd2c0384ca4610ba0b54a1ebbcc.jpeg)
+![Carry](./images/684d95ba117e6cd2c0384ca4610ba0b54a1ebbcc.jpeg)
 
 1. Walking 步行
 2. Farmer’s Carry 农夫行走
@@ -209,7 +209,7 @@ Lunges can be incorporated as a primary lower body strength training movement fo
 
 ###  Push (Upper Body) 推举（上身）
 
-![image-20250725110654412](../images/image-20250725110654412.png)
+![image-20250725110654412](./images/image-20250725110654412.png)
 
 ###  Pull (Upper Body) 拉（上身）
 
@@ -225,7 +225,7 @@ Lunges can be incorporated as a primary lower body strength training movement fo
 
 ###  Loaded Carry 负重携带
 
-![image-20250725111056059](../images/image-20250725111056059.png)
+![image-20250725111056059](./images/image-20250725111056059.png)
 
 **Loaded carries are one hell of a way to build resilient core stiffness, grip strength, and improved shoulder stability**, all while developing a brutal total body work capacity.
 **负重行走是锻炼核心力量、握力、肩部稳定性的好方法** ，同时还能提高全身的工作能力。

@@ -38,7 +38,7 @@ Based on the results of this experiment, I bet the following would be one kick-a
 
 ##  The Best And Worst Shoulder Exercises
 
-![image-20250722223245219](../images/image-20250722223245219.png)
+![image-20250722223245219](./images/image-20250722223245219.png)
 
 > S：**cable lateral raise**， ， behind ...（这个第一次见到，短期应该不会做），**reverse pec deck（健身房有）**
 >
@@ -50,6 +50,6 @@ Based on the results of this experiment, I bet the following would be one kick-a
 >
 > rear：cable版本健身房没有，用第二个版本*reverse pec deck*
 >
-> ![image-20250722223100576](../images/image-20250722223100576.png)
+> ![image-20250722223100576](./images/image-20250722223100576.png)
 
-![image-20250722222304681](../images/image-20250722222304681.png)
+![image-20250722222304681](./images/image-20250722222304681.png)
