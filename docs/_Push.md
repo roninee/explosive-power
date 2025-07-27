@@ -1,12 +1,12 @@
-# 计划
+##  计划
 
-## 胸部动作
+###  胸部动作
 
 * 杠铃哑铃上斜
 * 单手双手cable crossover
 * 蝴蝶机
 
-##  Triceps 
+###   Triceps 
 
 * *练习哑铃，直至单手10kg再用ez 或者 t杠*
 * cable bar overhead
@@ -16,27 +16,27 @@
 
 
 
-# 健人蓋伊三健客——如果一個肌群【只挑一個動作練】
+##  健人蓋伊三健客——如果一個肌群【只挑一個動作練】
 
 chest：哑铃卧推、哑铃卧推、上斜**哑铃**卧推、
 
 三头肌： cable 下拉，cable w杠下拉—— cable下拉真的是门槛非常非常低，非常容易上手，没有教练说的那么难；直杠或者w杠对**肩膀**和手腕友好，我的肩膀稳定度不好。
 
-# Athlean-X
+##  Athlean-X
 
-## chest
+###  chest
 
 best：杠铃和哑铃卧推
 
 almost best：Heavy 1 arm crossovers（越过中线，否则不是crossover），30 degree incline press
 
-## triceps
+###  triceps
 
 best：Lying tricep extension——ez bar or db
 
 almost best：tricep kickback, incline db powerdombs，cable pushdown
 
-# Thib
+##  Thib
 
 | 类别     | Primary                                                    | Secondary                                                    | Auxiliary                                                    | Remedial                         |
 | -------- | ---------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- |
@@ -44,7 +44,7 @@ almost best：tricep kickback, incline db powerdombs，cable pushdown
 | 肩部     | 肌肉挺举，（站姿杠铃）肩上推举，借力推举，坐姿杠铃肩上推举 | 坐姿及站姿哑铃肩上推举及其变化动作，阿诺德推举，斯科特/Thib推举，肌肉抓举 | 机器肩上推举，侧平举及其变化动作，前平举及其变化动作，侧平举机 | 古巴推举，肩外旋                 |
 | 肱三头肌 | 窄握卧推，窄握下斜握推，体后臂屈伸                         | 窄握上斜卧推，反握卧推，JM卧推，下斜杠铃臂屈伸，下斜哑铃臂屈伸，平板杠铃臂屈伸，平板哑铃臂屈伸 | 颈后哑铃臂屈伸，颈后杠铃臂屈伸，颈后钢索臂屈伸及其变化动作，臂屈伸机 | 健身球窄握俯卧撑，晃板窄握俯卧撑 |
 
-# [Inside the Muscles: Best Chest and Triceps Exercises](https://t-nation.com/t/inside-the-muscles-best-chest-and-triceps-exercises/284620)
+##  [Inside the Muscles: Best Chest and Triceps Exercises](https://t-nation.com/t/inside-the-muscles-best-chest-and-triceps-exercises/284620)
 
 by Bret Contreras
 
@@ -63,7 +63,7 @@ Based on the results of this experiment, I bet the following would be one kick-a
 > DB press, DB incline press,  cable Crossover, 
 > Rope Extension or Cable Extension 
 
-# The Best & Worst Chest Exercises 
+##  The Best & Worst Chest Exercises 
 
 by [Jeff Nippard](https://www.youtube.com/@JeffNippard)
 
@@ -82,7 +82,7 @@ by [Jeff Nippard](https://www.youtube.com/@JeffNippard)
 > * 蝴蝶机——蝴蝶机的问题是需要肱二头肌，我目前不适合。
 > * ~~S+的平板卧推器械很少见~~
 
-# The Best & Worst TRICEPS Exercises 
+##  The Best & Worst TRICEPS Exercises 
 
 ![image-20250722210357809](../image-20250722210357809.png)
 
@@ -98,7 +98,7 @@ by [Jeff Nippard](https://www.youtube.com/@JeffNippard)
 >
 > 
 
-# Push
+##  Push
 
 | 动作                                     | 组数 × 次数     | 原因与注意                                                   |
 | ---------------------------------------- | --------------- | ------------------------------------------------------------ |

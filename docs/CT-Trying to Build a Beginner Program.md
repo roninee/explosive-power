@@ -1,4 +1,4 @@
-# 其他回答精选
+##  其他回答精选
 
 My recommendation if you are that “skinny” and “can’t move much weight” would be to pick three main movements and train them 3-4 days a week (e.g. deadlift, bench press, front squat) and to that add 1 main assistance movement per day and 1 isolation exercise. The main movements are done for 3 sets of 3, then 3 sets of 6. The assistance lifts for 4 x 6 and the isolation movement for 3 x 8-12. For example:
 如果你“太瘦”且“举不起大重量”，我的建议是选择三个主要动作，每周训练3-4天（例如硬拉、卧推、前蹲），并在此基础上每天增加一个主要的辅助动作和一个隔离动作。主要动作做3组，每组3个，然后做3组，每组6个。辅助动作做4组，每组6个，隔离动作做3组，每组8-12个。例如：
@@ -32,7 +32,7 @@ But yes, I will definitely be upping both carbs and total calories well past wha
 3. Calves work is not necessary if you do big compound movements like deadlifts, squats, power cleans, high pulls and do weighted carries. Nothing will build the calves like loaded carries and prowler pushing.
    如果你进行硬拉、深蹲、力量翻、高拉和负重负重等大型复合动作，小腿训练就没有必要了。没有什么比负重负重和推举训练更能锻炼小腿了。
 
-# [Trying to Build a Beginner Program
+##  [Trying to Build a Beginner Program
 
 尝试构建一个初学者程序](https://t-nation.com/t/trying-to-build-a-beginner-program/222049)
 

@@ -1,6 +1,6 @@
 一定要同时包含以膝盖为主的变体（例如分腿蹲）和以臀部为主的模式（例如 RDL），以涵盖所有基础——在6 patterns中有提到
 
-# A：
+##  A：
 
 * 深蹲—— **thib**：**大多数**的下肢训练课上，我**只练习后蹲**，至少做**12个正式组**。
 
@@ -8,7 +8,7 @@
 * 箭步蹲 or 单腿硬拉 or step up
 * 农夫走+腹肌钢索卷腹——臀部夹紧，收腹，肩胛骨收紧就像能夹住花生米，同时能锻炼前臂 
 
-# B：
+##  B：
 
 * 深蹲架被占用，40kg快速深蹲
 * ：如果上面还不够，可以练习——这个动作是孤立动作，所以没什么溢出效应，nfl，短跑，mma 都没见过做这个动作。
@@ -39,40 +39,40 @@
 
 
 
-# single leg 动作不能忽视，对运动表现很重要。
+##  single leg 动作不能忽视，对运动表现很重要。
 
  Bulgarian split squat——非常多的运动研究推荐这个动作
 
 单腿硬拉
 
-# Athlean-X
+##  Athlean-X
 
-## Quad 
+###  Quad 
 
 best：Front Squats , Belt Squats  
 
 almost best：Hack Squats ， Bulgarian Split Squats ， High Bar Back Squats ， DB / BB Reverse Lunge
 
-## Glute
+###  Glute
 
 best： barbell hip thrust
 
 almost best：  cable pull through， DB leaning step up， gluteus bridge curl / gluteus ham rises.， Slick floor bridge curl ，Barbell RDL's ， low bar squats.       ——（太多了，总结DB leaning step up， low bar squats.  ）
 
-# 健人蓋伊三健客——如果一個肌群【只挑一個動作練】
+##  健人蓋伊三健客——如果一個肌群【只挑一個動作練】
 
 大腿：高杠深蹲，高杠深蹲，保加利亚单腿深蹲(盖伊)
 
 臀部：臀推，臀推，硬拉
 
-# Thib
+##  Thib
 
 | 类别         | Primary                                                      | Secondary                                                    | Auxiliary                                                    | Remedial                                      |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------- |
 | 股四头肌     | 奥林匹克后蹲（站位与髋同宽，躯干垂直），力量举深蹲（宽站位，躯干做出中等幅度的前倾），前蹲 | 箭步蹲及其变化动作，训练凳搁腿深蹲及其变化动作，腿举，杠铃哈克深蹲，哑铃深蹲 | 机器哈克深蹲，迈上箱子及其变化动作，腿屈伸及其变化动作，西斯深蹲 | 端点伸膝（使用弹力带），弹力带腿屈伸          |
 | 腘绳肌、臀肌 | 罗马尼亚硬拉，直腿硬拉，相扑硬拉，抓举握法硬拉               | 早安式体前屈及其变化动作，glute-ham raise，腿举（双脚置于踏板比较靠上的位置） | reverse hyper，胯下钢索前上拉，腿弯举及其变化动作，钢索伸髋  | X带行走，库克提腿，健身球腿弯举，弹力带腿弯举 |
 
-# The Best Damn Hip, Leg, and Calf Workout 最佳臀部、腿部和小腿锻炼
+##  The Best Damn Hip, Leg, and Calf Workout 最佳臀部、腿部和小腿锻炼
 
 Based on the results of this experiment, I bet the following would be one kick-ass workout that’d target the quads, hamstrings, glutes, and calves. Enjoy!
 根据本次实验的结果，我敢打赌，以下训练计划一定会非常有效，能够有效锻炼股四头肌、腘绳肌、臀肌和小腿肌肉。尽情享受吧！
@@ -86,7 +86,7 @@ Based on the results of this experiment, I bet the following would be one kick-a
 - Calves: Heavy Calf Raise
   小腿： 重物提踵
 
-# The Best & Worst Glute Exercises
+##  The Best & Worst Glute Exercises
 
 ![image-20250722212715403](../image-20250722212715403.png)
 
@@ -98,7 +98,7 @@ Based on the results of this experiment, I bet the following would be one kick-a
 >
 > s和a系列太多动作了：目前暂时选择：保加利亚分腿蹲，Machine Hip thrust，machine hip abduction
 
-# The Best & Worst QUAD(**Quadriceps**) Exercises (Ranked Using Science)
+##  The Best & Worst QUAD(**Quadriceps**) Exercises (Ranked Using Science)
 
 ![image-20250722214649634](../image-20250722214649634.png)
 

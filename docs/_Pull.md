@@ -1,8 +1,8 @@
 划船优先夹肩胛骨，而不是拉到最后才夹。
 
-# pull 不一样
+##  pull 不一样
 
-##### (Rowing, Deadlift, Chin-Up) （划船、硬拉、引体向上）
+######  (Rowing, Deadlift, Chin-Up) （划船、硬拉、引体向上）
 
 These are the only exercises where you don’t push close to your limit. Do more sets to get the work done. See it more as “strength practice” than all-out lifting. But to make these effective at increasing strength and size, control the eccentric by lowering slowly for about 2-3 seconds. Try to accelerate as much as possible on the concentric, lifting phase.
 *这些是唯一不需要你逼近极限的练习*。多做几组就能达到效果。*与其说是全力以赴的举重，不如把它看作是“力量练习”*。但为了有效地增加力量和肌肉块头，*需要控制离心收缩，缓慢降低身体约2-3秒*。在*向心收缩和举重阶段，尽量加速*。
@@ -11,46 +11,46 @@ These are the only exercises where you don’t push close to your limit. Do more
 
 * *大黄蜂水平划船把凳子低一些试试*
 
-# 背部
+##  背部
 
 * chest support row，Dumbbell Elbows Out Chest Supported Row
   上面两个一个是有专门的，另一个用可调节凳子么？
 * t杠下拉（似乎是45度倾斜）
 * 插拔式水平划船
 
-# 二头肌：
+##  二头肌：
 
 * db preacher curl， ez bar curl (**EZ 杠：** 其波浪形的弯曲设计允许你在弯举时采用半旋后握（semi-supinated grip），即手掌不是完全朝上，而是略微向内倾斜。这种握姿能**显著减轻手腕和肘关节的压力**，对于手腕不适或有旧伤的人来说更加友好舒适。)
 
 
 
-# Athlean-X
+##  Athlean-X
 
-## back
+###  back
 
 best：weighted pull up， bb row(担心下背部，用chest support 替代), 
 
 almost best：Meadows Row, 1 arm high cable row，lat pulldown，dead row
 
-## Trap 
+###  Trap 
 
 best：  Trap Bar Shrugs
 
 almost best： Face Pulls w/ Overhead Extension, ~~Wrap Around Rows~~, DB/BB Shrugs, Cable Angled Shrugs
 
-## Biceps
+###  Biceps
 
 best： Alt. Standing DB Curls
 
 almost best： Incline DB Curls , Chinups, ez Barbell Curls 
 
-# 健人蓋伊三健客——如果一個肌群【只挑一個動作練】
+##  健人蓋伊三健客——如果一個肌群【只挑一個動作練】
 
 背部：一致推荐 *引体向上*
 
 二头肌：ez 弯举，db坐姿上斜curl，db坐姿上斜curl ——  两个人都是完全下垂哑铃
 
-# Thib
+##  Thib
 
 | 类别                       | Primary                                                      | Secondary                                                    | Auxiliary                                                    | Remedial                                                     |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -58,7 +58,7 @@ almost best： Incline DB Curls , Chinups, ez Barbell Curls
 | 肩部                       | 肌肉挺举，（站姿杠铃）肩上推举，借力推举，坐姿杠铃肩上推举   | 坐姿及站姿哑铃肩上推举及其变化动作，阿诺德推举，斯科特/Thib推举，肌肉抓举 | 机器肩上推举，侧平举及其变化动作，前平举及其变化动作，侧平举机 | 古巴推举，肩外旋                                             |
 | 手臂屈肌（肱二头肌、肱肌） | 站姿杠铃弯举，牧师凳杠铃弯举                                 | 锤式弯举，坐姿哑铃弯举及其变化动作，牧师凳哑铃弯举，正握杠铃弯举（站姿或使用牧师凳），Zottman弯举 | 机器弯举，钢索弯举及其变化动作，集中弯举                     | 长柄锤或托尔之锤前臂转动（肘部紧贴体侧，弯曲90度，手握锤柄下半段。在起始动作中，采用正握，即掌心向下，拇指向内。接下来，肘部不动，转动前臂。一直转到掌心向上，拇指向内。） |
 
-# The Best Damn Back and Biceps Workout 最佳背部和二头肌锻炼
+##  The Best Damn Back and Biceps Workout 最佳背部和二头肌锻炼
 
 Based on the results of this experiment, I bet the following would be one kick-ass workout that’d target the lats, mid, and lower traps as well as the biceps. Enjoy!
 根据这次实验的结果，我敢打赌，下面的训练计划一定会非常有效，不仅能锻炼到二头肌，还能锻炼到背阔肌、斜方肌中部、下部和中部。好好享受吧！
@@ -74,7 +74,7 @@ Based on the results of this experiment, I bet the following would be one kick-a
 - Barbell Curl or EZ-Bar Curl
   杠铃弯举或 EZ-Bar 弯举
 
-# The Best And Worst Back Exercises (Ranked By Science)
+##  The Best And Worst Back Exercises (Ranked By Science)
 
 ![image-20250722220227785](../image-20250722220227785.png)
 
@@ -84,7 +84,7 @@ Based on the results of this experiment, I bet the following would be one kick-a
 >
 > 
 
-# The Best And Worst Biceps Exercises
+##  The Best And Worst Biceps Exercises
 
 ![image-20250722221512118](../image-20250722221512118.png)
 

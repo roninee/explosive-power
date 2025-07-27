@@ -1,4 +1,4 @@
-# [The Best Damn Strength Plan For Natural Lifters 最适合自然举重运动员的力量训练计划](https://t-nation.com/t/the-best-damn-strength-plan-for-natural-lifters/282073)
+##  [The Best Damn Strength Plan For Natural Lifters 最适合自然举重运动员的力量训练计划](https://t-nation.com/t/the-best-damn-strength-plan-for-natural-lifters/282073)
 
 先看评论
 
@@ -28,11 +28,11 @@
 
 
 
-## Maximum Strength That's All You 最大力量，这就是你
+###  Maximum Strength That's All You 最大力量，这就是你
 
-#### If you're a natural lifter doing the workouts of drugged lifters, you're going to be disappointed. Build maximal strength the natural way. Here's how. 如果你是一位自然力量训练者，却模仿那些服用药物的训练者，你肯定会失望的。用自然的方式锻炼出*最大力量*吧。方法如下。
+#####  If you're a natural lifter doing the workouts of drugged lifters, you're going to be disappointed. Build maximal strength the natural way. Here's how. 如果你是一位自然力量训练者，却模仿那些服用药物的训练者，你肯定会失望的。用自然的方式锻炼出*最大力量*吧。方法如下。
 
-### No Juice? No Problem. 没有果汁？没问题。
+####  No Juice? No Problem. 没有果汁？没问题。
 
 We covered a lot of ground in [The Best Damn Workout Plan for Natural Lifters](https://t-nation.com/t/the-best-workout-plan-for-natural-lifters/282025). And even though lifters reported strength gains across the board for these two programs, muscle growth was the main focus.
 我们在 [《自然举重运动员最佳训练计划》](https://t-nation.com/t/the-best-workout-plan-for-natural-lifters/282025) 中涵盖了很多内容。尽管举重运动员报告说，这两个计划的力量得到了全面提升，但肌肉增长才是主要关注点。
@@ -40,12 +40,12 @@ We covered a lot of ground in [The Best Damn Workout Plan for Natural Lifters](h
 But what about maximal strength? That’s what THIS plan is all about (size being the second objective). We’ll dive into the details in just a bit, but first, let’s recap a few essentials.
 那么，如何才能最大程度地发挥力量呢？这正是本计划的核心所在（尺寸是其次）。我们稍后会深入探讨细节，但首先，让我们回顾一下一些要点。
 
-### What All Natural Lifters Should Know 所有自然举重运动员应该知道什么
+####  What All Natural Lifters Should Know 所有自然举重运动员应该知道什么
 
 If you’re a natural lifter you’ve probably tried many advanced training programs and noticed that pretty much nothing came out of it. Here are a few reasons why that may have happened:
 如果你是一位天生的举重爱好者，你可能尝试过很多高级训练计划，但发现效果甚微。以下是一些可能的原因：
 
-#### 1. The Main Enemy of Natural Lifters is Excessive Cortisol. 1. 自然举重运动员的*主要敌人是过量的皮质醇。*
+#####  1. The Main Enemy of Natural Lifters is Excessive Cortisol. 1. 自然举重运动员的*主要敌人是过量的皮质醇。*
 
 This is especially true if it’s chronically elevated. Cortisol can greatly limit muscle growth by increasing protein/muscle breakdown and decreasing protein synthesis. It can also slow growth by increasing myostatin activation.
 如果皮质醇长期处于高水平，情况尤其如此。皮质醇会通过增加蛋白质/肌肉分解和减少蛋白质合成来极大地限制肌肉生长。它还会通过增加肌生长抑制素的活性来减缓肌肉生长。
@@ -53,12 +53,12 @@ This is especially true if it’s chronically elevated. Cortisol can greatly lim
 Myostatin is the gene that limits how much muscle you can build. The more activated it is, the less muscle your body will allow you to carry. This means, excess cortisol limits your muscle growth potential.
 肌肉生长抑制素是一种限制肌肉生长的基因。它越活跃，身体允许你拥有的肌肉就越少。这意味着过量的皮质醇会限制你的肌肉生长潜力。
 
-#### 2. Training Volume is What Triggers Cortisol Release the Most. 2. 训练量是刺激皮质醇释放的最大因素。
+#####  2. Training Volume is What Triggers Cortisol Release the Most. 2. 训练量是刺激皮质醇释放的最大因素。
 
 Cortisol’s main function during physical activity is the mobilization of stored energy to fuel the session. The more fuel you need, the more cortisol you’ll release. And of course you’ll need more fuel when volume is higher. The moral of the story? Natural lifters can’t do as much volume as enhanced lifters and expect to grow optimally.
 皮质醇在体力活动中的主要功能是调动储存的能量来为训练提供能量。你需要的能量越多，你释放的皮质醇就越多。当然，训练量越大，你需要的能量也就越多。这个故事的寓意是什么？自然训练者无法像强化训练者那样进行大强度的训练，却能期望获得最佳的增肌效果。
 
-#### 3. Natural Lifters can’t Artificially Increase Protein Synthesis. 3. 自然举重者不能人为地增加蛋白质合成。
+#####  3. Natural Lifters can’t Artificially Increase Protein Synthesis. 3. 自然举重者不能人为地增加蛋白质合成。
 
 They don’t have the benefit of anabolic drugs, so their bodies rely almost exclusively on the training session (and nutrition) to trigger protein synthesis. Under normal circumstances, protein synthesis is elevated in a trained muscle for up to 24 hours after a workout. But after that, it comes back down to normal levels.
 他们没有合成代谢药物的益处，所以他们的身体几乎完全依赖训练（和营养）来触发蛋白质合成。正常情况下，训练后肌肉的蛋白质合成在训练后长达24小时内会升高。但此后，蛋白质合成会回落到正常水平。
@@ -66,7 +66,7 @@ They don’t have the benefit of anabolic drugs, so their bodies rely almost exc
 If a natural lifter trains a muscle only once per week, muscle growth will be fairly slow because the period where protein synthesis is significantly elevated in a muscle is short. A natural lifter will get more muscle growth training a muscle twice per week and even more if he or she can hit a muscle three times in the week.
 如果自然训练者每周只训练一块肌肉一次，肌肉生长会相当缓慢，因为肌肉中蛋白质合成显著增加的时期很短。**自然训练者每周训练一块肌肉两次，肌肉生长会更快，如果每周训练一块肌肉三次，肌肉生长会更快。**
 
-#### 4. Volume and Frequency are Inversely Related. 4. 交易量和频率成反比。
+#####  4. Volume and Frequency are Inversely Related. 4. 交易量和频率成反比。
 
 The more frequently you train, the less volume you should do at each workout… that is, if you want to build muscle or strength. So the basic principles for natural lifters are:
 *训练频率越高，每次训练的训练量就应该越小*……如果你想要增肌或力量的话。因此，自然力量训练者的基本原则是：
@@ -89,7 +89,7 @@ With all this in mind, let’s dive into the plan.
 
 Lift1000×409 83.9 KB Lift 1000×409 83.9 KB
 
-### Weekly Schedule 每周计划
+####  Weekly Schedule 每周计划
 
 There are six workouts per week, since this is a high frequency, low-volume approach. Each workout will include one heavy lift:
 每周训练六次，因为这是一种高频率、低训练量的训练方法。每次训练将包含一项大重量训练：
@@ -109,7 +109,7 @@ For the three other workouts (the deadlift, row, and chin-up focused sessions) t
 The weekly schedule looks like this:
 每周的时间表如下：
 
-#### Monday – Push/Squat 周一——推/蹲
+#####  Monday – Push/Squat 周一——推/蹲
 
 - Squat (heavy) 深蹲（重量）
 - Squat assistance exercise (heavy)
@@ -121,7 +121,7 @@ The weekly schedule looks like this:
 - Delts lower-stress exercise (hypertrophy)
   三角肌低压力锻炼（肥大）
 
-#### Tuesday – Pull 星期二 – 拉
+#####  Tuesday – Pull 星期二 – 拉
 
 - Row (heavy) 划船（重型）
 - Hamstrings lower-stress exercise (hypertrophy)
@@ -133,7 +133,7 @@ The weekly schedule looks like this:
 - Biceps lower-stress exercise (hypertrophy)
   二头肌低压力锻炼（肥大）
 
-#### Wednesday – Push/Bench Press 星期三——推举/卧推
+#####  Wednesday – Push/Bench Press 星期三——推举/卧推
 
 - Bench press (heavy) 卧推（重量）
 - Bench press assistance (heavy)
@@ -145,7 +145,7 @@ The weekly schedule looks like this:
 - Triceps lower-stress exercise (hypertrophy)
   肱三头肌低压力锻炼（肥大）
 
-#### Thursday – Pull/Deadlift 周四——拉/硬拉
+#####  Thursday – Pull/Deadlift 周四——拉/硬拉
 
 - Deadlift (heavy) 硬拉（大重量）
 - Lats lower-stress exercise (hypertrophy)
@@ -155,7 +155,7 @@ The weekly schedule looks like this:
 - Biceps lower-stress exercise (hypertrophy)
   二头肌低压力锻炼（肥大）
 
-#### Friday - Push/Military Press 星期五 - 推举/军事推举
+#####  Friday - Push/Military Press 星期五 - 推举/军事推举
 
 - Military press (heavy) 军事推举（重型）
 - Military press assistance (heavy)
@@ -167,7 +167,7 @@ The weekly schedule looks like this:
 - Triceps lower-stress exercise (hypertrophy)
   肱三头肌低压力锻炼（肥大）
 
-#### Saturday – Pull/Chin-up 周六——引体向上
+#####  Saturday – Pull/Chin-up 周六——引体向上
 
 - Chin-up (heavy) 引体向上（重量）
 - Hamstrings lower-stress exercise (hypertrophy)
@@ -179,9 +179,9 @@ The weekly schedule looks like this:
 - Biceps lower-stress exercise (hypertrophy)
   二头肌低压力锻炼（肥大）
 
-#### Sunday – Off 周日 – 休息
+#####  Sunday – Off 周日 – 休息
 
-### The Exercise Categories 练习类别
+####  The Exercise Categories 练习类别
 
 This plan contains three exercise categories:
 该计划包含三个锻炼类别：
@@ -196,9 +196,9 @@ This plan contains three exercise categories:
 Each category will use several methods, listed below.
 每个类别将使用几种方法，如下所列。
 
-### Heavy Focus Lift Methods 重聚焦提升方法
+####  Heavy Focus Lift Methods 重聚焦提升方法
 
-#### Heavy Max Reps Set With Given Percentage 指定百分比的重物最大次数组
+#####  Heavy Max Reps Set With Given Percentage 指定百分比的重物最大次数组
 
 With this method I take a page from Jim Wendler’s book. You’ll use a given percentage of your technically correct (good form) 1RM. After warming up, you’ll do one set where you do as many reps as you can.
 这种方法我借鉴了 Jim Wendler 的教材。你需要使用你技术上正确（也就是正确动作）1RM 的一定百分比。热身后，进行一组尽可能多次数的训练。
@@ -222,7 +222,7 @@ You do not reach failure though. You stop when you know that you probably can’
 Note: If after 12 weeks you decide to continue with this approach, re-test your 1RM and start a new cycle with the adjusted numbers.
 注意：如果 12 周后您决定继续采用这种方法，请重新测试您的 1RM 并使用调整后的数字开始新的周期。
 
-#### Strength-Skill Work 力量技能训练
+#####  Strength-Skill Work 力量技能训练
 
 This refers to doing a higher amount of non-maximal work. It’s mostly done to improve your neurological efficiency. The key here is to make sure every rep is perfect. You’ll do several work sets with a fairly heavy weight (82.5% to 87.5%) but always several reps short of failure. To make the sets effective, focus on perfect technique and try to accelerate as much as possible during the concentric (lifting) portion.
 这指的是进行大量的非最大强度训练。这主要是为了提高你的神经效率。关键在于确保每次重复都完美无缺。你将用相当重的重量（82.5% 到 87.5%）做几组训练，但每次重复都要比力竭少几次。为了使训练组有效，你需要专注于完美的技巧，并在向心（举重）阶段尽可能加速。
@@ -261,7 +261,7 @@ We also use a 3-week wave where the load is fixed, but the volume changes. After
 When calculating the load on the chin-up you must include bodyweight in the calculation. If you weigh 200 pounds and your maximum is the addition of 45 pounds, the weight lifted is 245 pounds. If you need to use 82.5% it means 202 pounds, so you’d need to attach a 2.5-pound plate to your waist. If you don’t include your bodyweight you’d calculate 82.5% of 45 pounds and it would come up to 37 pounds, which would be way too heavy for the prescribed volume.
 计算引体向上的负荷时，必须将自身体重纳入计算。如果你的体重是200磅，你的最大重量是加上45磅，那么举起的重量就是245磅。如果你需要使用82.5%的重量，那就意味着202磅，所以你需要在腰部绑一个2.5磅的杠铃片。如果不包含自身体重，你计算45磅的82.5%，最终重量是37磅，这远远超过了规定的重量。
 
-#### Rest/Pause Assistance Work 休息/暂停辅助工作
+#####  Rest/Pause Assistance Work 休息/暂停辅助工作
 
 Your work sets will require a weight that you can lift for 4 to 6 reps. You’ll complete as many technically correct reps as you can with that weight. Your goal will then be to double that number of reps. To do that you take short rest periods.
 你的常规组训练需要你能够举起4到6次的重量。你需要用这个重量尽可能多地完成技术上正确的次数。你的目标是将次数翻倍。为了达到这个目标，你需要进行短暂的休息。
@@ -280,9 +280,9 @@ Here’s Anthony Campbell demonstrating the rest/pause method:
 
 
 
-### Hypertrophy Methods 肥大方法
+####  Hypertrophy Methods 肥大方法
 
-#### mTOR Sets mTOR 套装
+#####  mTOR Sets mTOR 套装
 
 Here the key is how you perform each rep. Accentuating the eccentric (negative) and loaded stretching are the contraction types that increase mTOR activation the most. So with this method you’ll do as follows:
 这里的关键在于你如何进行每次重复。强化离心（负重）拉伸和负重拉伸是提高 mTOR 激活度最有效的收缩类型。因此，使用这种方法，你需要进行以下练习：
@@ -305,7 +305,7 @@ Here’s what it looks like in action:
 
 
 
-#### “Heavy” Myo Reps “重度” Myo 训练次数
+#####  “Heavy” Myo Reps “重度” Myo 训练次数
 
 For maximum muscle fiber fatigue, use the myo rep method developed by Borge Fagerly. It’s a form of rest/pause. You reach failure or close to it, then do as many micro-sets of 3 reps as possible with around 20 seconds of rest.
 为了最大限度地减少肌肉纤维疲劳，可以使用 Borge Fagerly 开发的 Myo Rep 方法。这是一种休息/暂停的方式。当你达到或接近力竭时，*尽可能多地进行 3 次微组训练，中间休息 20 秒左右。*
@@ -324,12 +324,12 @@ Start by doing as many reps as you can with that weight, then rest 20 seconds an
 
 
 
-### The Workouts 训练
+####  The Workouts 训练
 
 Now that we have the training split and the training methods we’ll use, let’s put it together in a weekly plan:
 现在我们已经确定了训练分组和要使用的训练方法，让我们将其整合到每周计划中：
 
-#### Monday – Push/Squat 周一——推/蹲
+#####  Monday – Push/Squat 周一——推/蹲
 
 - **A. Squat A. 深蹲**
 
@@ -378,7 +378,7 @@ Now that we have the training split and the training methods we’ll use, let’
 
 - 1 Myo-reps set 1组肌力训练
 
-#### Tuesday – Pull 星期二 – 拉
+#####  Tuesday – Pull 星期二 – 拉
 
 - **A. Pendlay Row A. 彭德利街**
 
@@ -425,7 +425,7 @@ Now that we have the training split and the training methods we’ll use, let’
 
 - 1 mTOR set 1 套 mTOR
 
-#### Wednesday – Push/Bench Press 星期三——推举/卧推
+#####  Wednesday – Push/Bench Press 星期三——推举/卧推
 
 - **A. Bench Press A.卧推**
 
@@ -476,7 +476,7 @@ Now that we have the training split and the training methods we’ll use, let’
 
 - 1 mTOR set 1 套 mTOR
 
-#### Thursday – Pull/Deadlift 周四——拉/硬拉
+#####  Thursday – Pull/Deadlift 周四——拉/硬拉
 
 - **A. Deadlift A.硬拉**
 
@@ -514,7 +514,7 @@ Now that we have the training split and the training methods we’ll use, let’
 
 - 1 Myo-reps set 1组肌力训练
 
-#### Friday – Push/Military Press 星期五 - 推/军事推举
+#####  Friday – Push/Military Press 星期五 - 推/军事推举
 
 - **A. Military Press A.军事出版社**
 
@@ -563,7 +563,7 @@ Now that we have the training split and the training methods we’ll use, let’
 
 - 1 mTOR set 1 套 mTOR
 
-#### Saturday – Pull/Chin-Up 周六——引体向上
+#####  Saturday – Pull/Chin-Up 周六——引体向上
 
 - **A. Chin-Up A. 引体向上**
 
@@ -610,9 +610,9 @@ Now that we have the training split and the training methods we’ll use, let’
 
 - 1 mTOR set 1 套 mTOR
 
-#### Sunday – Off 周日 – 休息
+#####  Sunday – Off 周日 – 休息
 
-### Effort Level 努力程度
+####  Effort Level 努力程度
 
 The best program performed 80% effort will give you less results than a basic program done at 100%. This is the most important thing you need to remember. So to get amazing results, you need to apply the proper level of intensity.
 即使最好的训练计划只用80%的努力，效果也比100%的基础训练计划差。这是你需要记住的最重要的一点。所以，为了获得惊人的效果，你需要运用适当的强度。
@@ -626,23 +626,23 @@ The principle of this is to do short but brutally hard sessions. If you do “sh
 Here’s where you need to take each exercise:
 以下是您需要进行的每个练习：
 
-#### Max Reps Strength Lifts 最大次数力量训练
+#####  Max Reps Strength Lifts 最大次数力量训练
 
-##### (Squat, Bench Press, Military Press) （深蹲、卧推、军事推举）
+######  (Squat, Bench Press, Military Press) （深蹲、卧推、军事推举）
 
 The work set on these should be around a 9/10 on the perceived effort scale. This means that you should do as many technically correct reps as you can. When you stop your set you must be pretty darn sure that if you would’ve tried one more rep, you would have either failed or used bad technique. But as long as you’re reasonably sure that you can get the next rep, do it.
 这些训练的强度在自觉努力程度量表上应该在9/10左右。这意味着你应该尽可能多地完成技术上正确的次数。当你停止训练时，你必须非常确定，如果你再尝试一次，你要么会失败，要么会用错技术。但只要你相当确定自己能完成下一次，那就去做吧。
 
-#### Strength-skill Lifts 力量技巧提升
+#####  Strength-skill Lifts 力量技巧提升
 
-##### (Rowing, Deadlift, Chin-Up) （划船、硬拉、引体向上）
+######  (Rowing, Deadlift, Chin-Up) （划船、硬拉、引体向上）
 
 These are the only exercises where you don’t push close to your limit. Do more sets to get the work done. See it more as “strength practice” than all-out lifting. But to make these effective at increasing strength and size, control the eccentric by lowering slowly for about 2-3 seconds. Try to accelerate as much as possible on the concentric, lifting phase.
 *这些是唯一不需要你逼近极限的练习*。多做几组就能达到效果。*与其说是全力以赴的举重，不如把它看作是“力量练习”*。但为了有效地增加力量和肌肉块头，*需要控制离心收缩，缓慢降低身体约2-3秒*。在*向心收缩和举重阶段，尽量加速*。
 
-#### Rest/Pause Lifts 休息/暂停举重
+#####  Rest/Pause Lifts 休息/暂停举重
 
-##### (Zercher Squat, Close-Grip Floor Press, High Incline Bench Press) （泽奇深蹲、窄握地板推举、高斜卧推）
+######  (Zercher Squat, Close-Grip Floor Press, High Incline Bench Press) （泽奇深蹲、窄握地板推举、高斜卧推）
 
 The same rule applies as for the max reps strength lifts – take the set to the point where you know you can’t get another full rep, then rest for 20 seconds before resuming the set to get more reps in.
 同样的规则也适用于最大次数的力量举——进行一组动作直到你知道你无法再进行一次完整的重复，然后休息 20 秒，再恢复该组动作以进行更多的重复。
@@ -650,12 +650,12 @@ The same rule applies as for the max reps strength lifts – take the set to the
 For everything else (mTOR sets and myo-reps) you must reach the point of muscle failure, where you fail to complete a rep.
 对于其他一切（mTOR 组和肌重复），您必须达到肌肉衰竭的程度，即无法完成一次重复。
 
-### Q & A 问答
+####  Q & A 问答
 
 Here are some questions that are bound to pop up:
 以下是一些必然会出现的问题：
 
-#### I can’t train 6 days a week. Can I still do the program? 我无法每周训练6天。我还能继续这个计划吗？
+#####  I can’t train 6 days a week. Can I still do the program? 我无法每周训练6天。我还能继续这个计划吗？
 
 If you can train 4 or 5 days a week, you can do the program. In that case, simply roll through the 6 training days in order. It will just take you more than a week to complete one “training week.”
 如果你每周可以训练4到5天，那么你可以完成这个计划。在这种情况下，只需按顺序完成6天的训练即可。完成一个“训练周”只需要一周多的时间。
@@ -663,7 +663,7 @@ If you can train 4 or 5 days a week, you can do the program. In that case, simpl
 If you can only train 3 days a week this isn’t the best plan for you since it’s based on a high frequency of work.
 如果您每周只能训练 3 天，那么这对您来说并不是最好的计划，因为它基于高频率的工作。
 
-#### Can I do this program when trying to cut? 我尝试剪切时可以执行这个程序吗？
+#####  Can I do this program when trying to cut? 我尝试剪切时可以执行这个程序吗？
 
 Just so that we’re on the same page, trying to “cut” means eating a caloric deficit in an effort to lose body fat. My answer would be “yes, but…”
 为了让大家达成共识，“减脂”意味着为了减掉体内脂肪而摄入热量不足。我的答案是“是的，但是……”
@@ -695,7 +695,7 @@ Now, if you decide to lower your body fat you still have to train. And since you
 In fact, due to the low volume, you reduce the potential overtraining/under-recovering that’s more likely to occur when you reduce your food intake. So, yes you can do this program when trying to get lean, but don’t expect the same gains as if you were doing it while eating a surplus.
 事实上，由于训练量低，你能够减少过度训练/恢复不足的可能性，而这些情况在你减少食物摄入量时更容易发生。所以，虽然你可以在尝试瘦身时进行这个计划，但不要指望获得与吃得过多时相同的效果。
 
-#### Can I add cardio? 我可以增加有氧运动吗？
+#####  Can I add cardio? 我可以增加有氧运动吗？
 
 Same answer as the question about doing this program while trying to lose fat: Yes, but…
 与尝试减肥的同时进行此计划的问题的答案相同：是的，但是……
@@ -706,7 +706,7 @@ Adding a moderate round of cardio (steady state or short intervals) should not m
 Doing 30 minutes of steady state work or 12-15 minutes of intervals 2-3 times per week is fine. But understand that, just like with a caloric deficit, it might slow down your gains slightly.
 每周2-3次，每次30分钟的稳定状态训练或12-15分钟的间歇训练是可以的。但要明白，就像热量缺口一样，这可能会稍微减缓你的增肌速度。
 
-#### Can I add work for abs and/or calves? 我可以增加腹部和/或小腿的锻炼吗？
+#####  Can I add work for abs and/or calves? 我可以增加腹部和/或小腿的锻炼吗？
 
 You can. I personally train abs with a blitz approach which works well with the structure of this workout.
 可以。我个人用闪电训练法来训练腹肌，这和这个训练的结构很契合。
@@ -722,7 +722,7 @@ Train abs everyday for 3 weeks, then not at all for 3 weeks. Then go back to tra
 Calf work can be added up to 3 days a week at the end of the push days. The best method to use is the mTOR reps method. Do 2 warm-up sets then one all-out mTOR set. You can do them seated, standing, or donkey style.
 每周最多可以在推举日结束后增加 3 天的小腿训练。最佳方法是 mTOR 重复训练法。先做两组热身，然后进行一组全力 mTOR 训练。你可以选择坐姿、站姿或驴式训练。
 
-#### Can I repeat the program once I’m done with a 12 week cycle? 完成 12 周的周期后，我可以重复该计划吗？
+#####  Can I repeat the program once I’m done with a 12 week cycle? 完成 12 周的周期后，我可以重复该计划吗？
 
 Yes. Just retest your max on the 6 “big lifts” to plan the weights for the next cycle. If you decide to start a new cycle, change the hypertrophy exercises, even the heavy assistance lifts. Keep the main lifts the same though.
 是的。只需重新测试你之前6个“大重量”动作的最大重量，就可以规划下一个周期的重量。如果你决定开始新的周期，请调整增肌练习，即使是大重量辅助动作也一样。不过，主要动作保持不变。
@@ -730,7 +730,7 @@ Yes. Just retest your max on the 6 “big lifts” to plan the weights for the n
 Another option would be to do 3-6 weeks of either “The Best Damn Workout Plan for Natural Lifters” or part 2 before going back to another strength phase.
 另一种选择是进行 3-6 周的“自然举重运动员最佳锻炼计划”或第 2 部分，然后再回到另一个力量阶段。
 
-### Foolproof Plan 万无一失的计划
+####  Foolproof Plan 万无一失的计划
 
 This style of training, if you train at the intensity level required, is guaranteed to add significant strength and size on anyone. It’s foolproof and might change your training paradigm forever. If you’re tired of spinning your wheels on “traditional” plans, this might be the answer you’ve been looking for.
 这种训练方式，只要你按照所需的强度进行训练，保证能让任何人的力量和围度都显著提升。它简单易行，甚至可能永远改变你的训练模式。如果你厌倦了“传统”训练计划，这或许就是你一直在寻找的答案。

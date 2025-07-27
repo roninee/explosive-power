@@ -1,4 +1,4 @@
-# 6 foundational movement patterns:
+##  6 foundational movement patterns:
 
 > 这6个 模式作者有时候会加上身体部位，例如 hip, upper body等等，有时候不加入
 
@@ -9,11 +9,11 @@
 - Upper Body Pull,
 - Loaded Carry.
 
-# [The 6 Foundational Movement Patterns](https://t-nation.com/t/the-6-foundational-movement-patterns/283389)
+##  [The 6 Foundational Movement Patterns](https://t-nation.com/t/the-6-foundational-movement-patterns/283389)
 
 by Dr. John Rusin 
 
-##  Squat
+###   Squat
 
 把“深蹲”看作一个总括性术语。在这个总括性术语下，你会发现杠铃后蹲。但深蹲的动作模式并非针对某项具体的练习。The **pattern is more important than the specific exercise**动作模式比具体的练习更重要，至少如果你的目标是if your **goals are performance and longevity**提高运动表现和持久力的话。
 
@@ -33,14 +33,14 @@ by Dr. John Rusin
 
 一旦确定了最适合你的深蹲变式，下一步就是微调设置和执行。为此，你需要找到适合你身体的深蹲深度。请参阅本文并进行以下测试：[ 深蹲深度：终极答案 ](https://t-nation.com/t/squat-depth-the-final-answer/283393)。
 
-##  Hinge
+###   Hinge
 
 The hinge is one of the most important patterns when it comes to protecting your lower back from injury, but many people have lost the ability do it.
 铰链是保护下背部免受伤害的最重要的模式之一，但许多人已经失去了做到这一点的能力。
 
 髋关节铰链经常与硬拉混淆，而硬拉是髋关节铰链运动的一个特定练习。虽然并非所有髋关节铰链都是硬拉，但所有硬拉都是一种髋关节铰链动作模式。
 
-#### Hinge Pattern Progressions 铰链模式进展
+#####  Hinge Pattern Progressions 铰链模式进展
 
 This pattern needs to be slowly implemented at lower levels to allow motor relearning to take place. Here are the main progressions used to reactivate the hip hinge from the ground up:
 这种模式需要在较低水平上缓慢实施，以便进行运动再学习。以下是用于从头开始重新激活髋关节铰链的主要进阶步骤：
@@ -57,13 +57,13 @@ This pattern needs to be slowly implemented at lower levels to allow motor relea
 6. Barbell Rack Pull (or lifting from blocks/plates)
 7. Barbell Deadlift 
 
-##  Lunge
+###   Lunge
 
 单腿功能是另一种**被忽视**的运动模式。遗憾的是，许多举重运动员并不重视弓箭步的变式。为什么？**主要有两个原因**。首先，弓箭步**无法**像双腿练习那样**使用那么多重量**。其次，弓箭步**很难**。如果你**有任何薄弱环节或功能障碍，弓箭步就能让你迅速发现**。
 
 **很少有动作比单腿变式更能有效地识别薄弱环节、症结所在和疼痛模式**。这些练习可以进行编程以增强力量和肌肉块头，也可以发展成一种技能，通过这种保护性模式来保持身体功能。
 
-#### Single-Leg Pattern Progressions 单腿模式进展
+#####  Single-Leg Pattern Progressions 单腿模式进展
 
 ![Lunge 1-2](../919e7bd2c00835623fee275727c90926f7b693e8.jpeg)
 
@@ -86,7 +86,7 @@ The single-leg lunge pattern does include more hinge-based movements such as the
 In the lunge pattern, be sure to include BOTH the more knee-dominant variations such as **split squats** and the more hip-dominant patterns such as **RDLs** to cover all your bases.
 在弓步模式中，一*定要同时包含以膝盖为主的变体（例如分腿蹲）和以臀部为主的模式（例如 RDL），以涵盖所有基础。*
 
-##  Push
+###   Push
 
 从卧推的普及到自重俯卧撑的两极分化，推举练习常常被过分强调，却执行不足。
 
@@ -94,9 +94,9 @@ In the lunge pattern, be sure to include BOTH the more knee-dominant variations 
 
 瞧，根据与地面的接触点，运动模式可分为**开链运动和闭链运动**。如果手脚接触的是稳定的表面，例如地面，则运动为闭链运动。如果手脚在空间中自由移动，则为开链运动。
 
-#### Upper-Body Pushing Pattern Progressions 上肢推举模式进展
+#####  Upper-Body Pushing Pattern Progressions 上肢推举模式进展
 
-#### Horizontal Pushing 水平推
+#####  Horizontal Pushing 水平推
 
 > 由于心理因素和可能的关节因素，只考虑以下动作：上斜卧推，过顶推举
 
@@ -109,7 +109,7 @@ In the lunge pattern, be sure to include BOTH the more knee-dominant variations 
 3. Dumbbell Bench Press 哑铃卧推
 4. Barbell Bench Press 杠铃卧推
 
-#### Vertical Pushing 垂直推
+#####  Vertical Pushing 垂直推
 
 ![Vertical Pushing](../5079d5dd7e37edeec3d28ee3c8da9730931ee154.jpeg)
 
@@ -123,7 +123,7 @@ The success of a perfect push is highly dependent on the stability of the pillar
 When progressing through the horizontal and vertical pulls, be aware of not only the function and patterning of the shoulder and upper body, but of the entire body, especially the core and hips and their ability to display and maintain good positioning, tension, and control throughout the dynamic motions at the shoulders.
 在进行水平和垂直拉伸时，不*仅要注意肩部和上身的功能和模式*，还要*注意整个身体，特别是核心和臀部*，以及它们在肩部动态运动过程中展示和*保持良好定位、张力和控制的能力。*
 
-##  Pull
+###   Pull
 
 The upper-body pull pattern may be the most misunderstood pattern of the upper body, especially as it pertains to developing bulletproof shoulders and a resilient back.
 上身拉伸模式可能是最容易被误解的上身模式，特别是因为它与锻炼坚韧的肩膀和有弹性的背部有关。
@@ -134,7 +134,7 @@ We know that strong and stable shoulders depend on pulling more than pushing, bu
 In order to create full-body stability at the shoulders through the pull, the horizontal pull (the row) must first be mastered before introducing the more complex vertical pull variations off the pull-up bar and beyond.
 为了通过拉动在肩部建立全身稳定性，必须**首先掌握水平拉动（划船）**，**然后再引入引体向上**杆及**其他更复杂的垂直拉动**变化。
 
-#### Horizontal Pulling 水平拉动
+#####  Horizontal Pulling 水平拉动
 
 ![Horizontal Pulling 1-2](../06fc1fd84dd790552761b1e20ecb7fe8a72a28c5.jpeg)
 
@@ -150,7 +150,7 @@ In order to create full-body stability at the shoulders through the pull, the ho
 The vertical pull pattern needs to be de-emphasized in training sessions, and re-emphasized in evaluation of pillar function into the overhead position. While earning the right to get back up on the pull-up bar, don’t hesitate to use the vertical pull to evaluate overhead positions at the gleno-humeral joint, rhythm of the scapula, or stability at the core and pelvis.
 在训练中，需要淡化垂直拉力模式的强调，并在评估过顶姿势的支柱功能时重新强调。在掌握重新站到引体向上杆上的能力时，不要犹豫，运用垂直拉力来评估过顶姿势下肩胛骨关节的活动、肩胛骨的节奏，以及核心肌群和骨盆的稳定性。
 
-#### Vertical Pulling 垂直拉动
+#####  Vertical Pulling 垂直拉动
 
 ![Vertical Pulling](../d13399ca7b7109a0764166c14281ccf95503dadd.jpeg)
 
@@ -161,9 +161,9 @@ The vertical pull pattern needs to be de-emphasized in training sessions, and re
 Once you’ve mastered the vertical and horizontal pulling patterns, strategic programming around these two planes of motion needs to be addressed. A majority of lifters will do well with a 2:1 ratio between horizontal to vertical pulling. Keep this in mind in terms of total reps completed over a weekly workload.
 掌握了垂直和水平拉动模式后，就需要围绕这两个运动平面进行策略性训练。*大多数训练者在水平和垂直拉动比例为 2:1* 时效果良好。在计算每周训练量的总次数时，请记住这一点。
 
-#### Upper Body Pulling Pattern Progressions 上肢拉伸模式进展
+#####  Upper Body Pulling Pattern Progressions 上肢拉伸模式进展
 
-##  Carry
+###   Carry
 
 Moving your body through space with smooth stability and control has become a lost art. While the carry pattern can absolutely include loaded variations like the farmer’s walk, this pattern is more broadly associated with generalized locomotion of the body. From walking to running, sprinting to reactionary agility, an athlete must display the ability to control his body through space and under a multitude of challenges.
 以流畅、稳定和控制的方式在空间中移动身体已成为一门失传的艺术。虽然搬运模式当然可以包含像**农夫行走**这样的负重变化，但这种模式更广泛地与身体的一般运动相关。从**步行到跑步，从冲刺到敏捷反应**，运动员**必须展现出在空间中以及在各种挑战下控制身体的能力。**
@@ -172,7 +172,7 @@ Moving your body through space with smooth stability and control has become a lo
 
 想要提升运动表现或缓解疼痛，就**必须挑战该区域的近端稳定性以及远端灵活性和负重**。正因如此，**除了短跑训练、负重搬运和推/拖雪橇之外，步行也是智能训练计划的基础动作。**
 
-#### Carry and Locomotion Pattern Progressions 携带和运动模式进展
+#####  Carry and Locomotion Pattern Progressions 携带和运动模式进展
 
 ![Carry](../684d95ba117e6cd2c0384ca4610ba0b54a1ebbcc.jpeg)
 
@@ -184,13 +184,13 @@ Moving your body through space with smooth stability and control has become a lo
 5. Mixed Grip Carry 混合握法携带
 6. Overhead Carry 过顶搬运
 
-# 6 Foundational Movements That Every Person On Earth Needs To Master
+##  6 Foundational Movements That Every Person On Earth Needs To Master
 
-## Squat 蹲
+###  Squat 蹲
 
-## Hip Hinge 髋关节铰链
+###  Hip Hinge 髋关节铰链
 
-## Lunge (Single Leg) 弓步（单腿）
+###  Lunge (Single Leg) 弓步（单腿）
 
 **The lunge movement is an excellent movement pattern to build a strong, resilient lower body**. Compared to your typical squats and deadlifts, single leg movements like the lunge require additional stability through the foot, ankle, knee, and hip and are a **worthwhile addition to any high-performance training routine.**
 **弓箭步动作是打造强健、有弹性的下半身的绝佳运动模式** 。与典型的深蹲和硬拉相比，像弓箭步这样的单腿动作需要脚、脚踝、膝盖和臀部额外的稳定性，因此**对于任何高性能训练来说，都是值得加入的。**
@@ -207,11 +207,11 @@ Lunges can be incorporated as a primary lower body strength training movement fo
 **The Step Back Lunge** is an excellent lunge variation to take stress off of the knee compared to a forward lunge and load up the glute and hamstring to a greater degree. Due to the step back nature, the tibia stays vertical, reducing shear stress on the knee for pain-free gains.
 **后退弓箭步**是一种很好的弓箭步变式，相比前退弓箭步，它能减轻膝盖的压力，并更大程度地刺激臀部和腿筋。由于后退弓箭步的本质，胫骨保持垂直，从而减少了膝盖的剪切应力，从而减轻了疼痛。
 
-## Push (Upper Body) 推举（上身）
+###  Push (Upper Body) 推举（上身）
 
 ![image-20250725110654412](../image-20250725110654412.png)
 
-## Pull (Upper Body) 拉（上身）
+###  Pull (Upper Body) 拉（上身）
 
 **1. Gain Stability at the Shoulders Before You Pull 拉起前保持肩膀稳定**
 
@@ -223,7 +223,7 @@ Lunges can be incorporated as a primary lower body strength training movement fo
 
 **3.** **Contract** **Your Glutes, Quads and Core During the Movement****3.** 在运动过程中**收缩****臀肌、股四头肌和核心肌群**
 
-## Loaded Carry 负重携带
+###  Loaded Carry 负重携带
 
 ![image-20250725111056059](../image-20250725111056059.png)
 

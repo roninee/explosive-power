@@ -1,4 +1,4 @@
-# How to Design a Damn Good Program, Part 1
+##  How to Design a Damn Good Program, Part 1
 
 by Christian Thibaudeau
 
@@ -272,7 +272,7 @@ A word to the wise should be enough. Choose your exercises carefully, with as li
 
 
 
-# How to Design a Damn Good Program, Part 2
+##  How to Design a Damn Good Program, Part 2
 
 by Christian Thibaudeau*[/B]
 
@@ -583,7 +583,7 @@ Now we have 90 seconds between each set of bench press, and 90 seconds between e
 
 If you're circuit training for fat loss, you'll be working in the strength-endurance zone. If so, simply use the interval length specified above 10-45 seconds) between each station. Lactate-inducing circuit training should be considered energy system work (cardio) with weights, rather than "weight lifting."
 
-# How to design a damn good program pt.3
+##  How to design a damn good program pt.3
 
 ***Step 9. About recovery days\***
 

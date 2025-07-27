@@ -1,6 +1,6 @@
-#### The look of power cannot be faked. Here's how to build a body that has the "go" to back up the "show." 力量的外表是无法伪装的。以下是如何打造拥有“力量”的身材，来支撑你的“秀”。
+#####  The look of power cannot be faked. Here's how to build a body that has the "go" to back up the "show." 力量的外表是无法伪装的。以下是如何打造拥有“力量”的身材，来支撑你的“秀”。
 
-### Here’s What You Need To Know… 以下是您需要了解的内容……
+####  Here’s What You Need To Know… 以下是您需要了解的内容……
 
 1. Physiques that exude power are made of *massive lats, traps, and delts.* And they don’t just look powerful, they *are* powerful.
    散发力量的体格是由*强大的背阔肌、斜方肌和三角肌构成的*。它们不仅看起来强大，而且*确实*强大。
@@ -11,7 +11,7 @@
 4. There are three phases of this 10-week program. It’s periodized so that your main lifts increase in load while your assistance work decreases in volume.
    这个为期10周的训练计划分为三个阶段。它采用周期化的方式，让你的主要训练动作重量逐渐增加，而辅助训练动作的重量逐渐减少。
 
-### Defining The Power Look 定义力量外观
+####  Defining The Power Look 定义力量外观
 
 Few people have a physique that looks powerful and intimidating. And I want what few people have. Don’t you?
 很少有人拥有如此强悍、令人生畏的体格。而我也渴望拥有这种少数人拥有的体格。你呢？
@@ -31,7 +31,7 @@ Train toward achieving a new 3RM. The ultimate goal is to get 3 solid sets of 3 
 This program is built for a “big athlete” look. Think fullback or linebacker bodies. It will build muscle in all the right places and build the strength to back up the look.
 这项训练计划专为打造“大块头运动员”的身材而设计。*想象一下全卫或线卫的身材*。它将在所有合适的部位锻炼肌肉，并增强力量来支撑这种身材。
 
-### Making The Program Work 使程序发挥作用
+####  Making The Program Work 使程序发挥作用
 
 The purpose of this program is to turn you into one powerful-looking human being. This is not the time to start a fat-loss diet!
 本计划的目的是让你看起来更强壮。现在可不是开始减肥节食的时候！
@@ -42,7 +42,7 @@ We don’t want to get fat in our quest for looking like a tank, but it would be
 You want at least a 10% caloric surplus when doing this program. For supplements, I had my greatest improvements when I was consuming a high amount of [Surge Workout Fuel (Buy at Amazon)](https://vip.t-nation.com/SurgeAmazon) pre and during training as well as [Mag-10](https://biotest.t-nation.com/products/mag-10?utm_source=tnation&utm_medium=article&utm_campaign=283219_mag10_CT) post-training.
 进行此计划时，你至少需要 10%的热量盈余。至于补充剂，我在训练前和训练中服用大量 [Surge Workout Fuel （可在亚马逊购买）](https://vip.t-nation.com/SurgeAmazon) ，并在训练后服用 [Mag-10](https://biotest.t-nation.com/products/mag-10?utm_source=tnation&utm_medium=article&utm_campaign=283219_mag10_CT) 时，效果最佳。
 
-### The Workouts 训练
+####  The Workouts 训练
 
 I’ll provide a week-by-week breakdown of the program below, but let’s start with an overview of each section.
 我将在下面提供该计划的每周细分，但让我们先从每个部分的概述开始。
@@ -53,7 +53,7 @@ Focus on four main lifts. These exercises are selected for their capacity to giv
 But you’ll also use assistance exercises, which will increase the rate of progress in the main movements. Everything you do is designed to push the big four as high as possible, because getting the big-four higher is what will get you looking like a beast.
 但你也会使用辅助练习，这会加快主要动作的进展速度。你所做的一切都是为了尽可能地提高四大要素，因为只有提高四大要素的水平，你才能看起来像一头野兽。
 
-### The Power 4 权力4
+####  The Power 4 权力4
 
 1. **Front squat 前蹲**
 2. **Deadlift 硬拉**
@@ -67,7 +67,7 @@ But you’ll also use assistance exercises, which will increase the rate of prog
 - The main movements are periodized: The load is planned in advance for the whole cycle and based on testing your 1RM just prior to starting the training cycle.
   主要动作是周期性的： 整个周期的负荷是提前计划好的，并且基于在开始训练周期之前测试你的 1RM。
 
-#### The Periodization Scheme for the Main Movements: 主要动作的周期安排：
+#####  The Periodization Scheme for the Main Movements: 主要动作的周期安排：
 
 - **Week 1:** 80%, 5 x 3
   **第一周：** 80%，5 x 3
@@ -95,7 +95,7 @@ After week 10, take three easy days and then test your new 1RM.
 
 ![Bent-Over-Barbell-Row](../6641de892f9202d709582647ce98389f06f0d79f.jpeg)
 
-### The Assistance Work 援助工作
+####  The Assistance Work 援助工作
 
 The program below has two assistance movements for each main lift during each training phase.
 下面的计划在每个训练阶段为每个主要举重动作提供两个辅助动作。
@@ -109,7 +109,7 @@ This means emphasizing the stronger links in the main lifts so that you’re abl
 **Note:** For the assistance work you won’t use pre-planned loads like you will for the main lifts. Shoot for the heaviest load you can handle with proper form for all the work sets. Don’t hit failure on purpose, but if it happens once in a while don’t worry about it.
 **注意：** 辅助训练时，你不会像主要动作那样使用预先计划好的重量。*所有训练组都应以正确的姿势，尽可能承受最大的重量。不要故意达到力竭，但如果偶尔发生，也不必担心。*
 
-#### Phase 1 – Assistance Exercises 第一阶段——援助演习
+#####  Phase 1 – Assistance Exercises 第一阶段——援助演习
 
 The two assistance exercises are selected to fix generally weak areas in the main lifts and build the key muscles involved.
 选择这两项辅助练习是为了修复主要举重动作中普遍较弱的部位并锻炼所涉及的关键肌肉。
@@ -143,7 +143,7 @@ The two assistance exercises are selected to fix generally weak areas in the mai
 - **Week 4:** 2 x 6
   **第四周：** 2 x 6
 
-#### Phase 2 – Assistance Exercises 第二阶段——援助演习
+#####  Phase 2 – Assistance Exercises 第二阶段——援助演习
 
 One exercise will continue working on a weak link for the main lift, but the second exercise will be an overload movement for the pattern to get used to handling heavier weights.
 一项练习将继续针对主要举重动作中的薄弱环节进行训练，但第二项练习将采用超负荷运动模式，以适应处理更重的重量。
@@ -179,7 +179,7 @@ One exercise will continue working on a weak link for the main lift, but the sec
 - **Week 7:** 4 x 4
   **第 7 周：** 4 x 4
 
-#### Phase 3 – Assistance Exercises
+#####  Phase 3 – Assistance Exercises
 
 The goal of the assistance movements is no longer about correcting weak links. Use them instead to emphasize strong links.
 
@@ -208,11 +208,11 @@ Use only assistance movements where you can use more weight than on the main lif
 - **Week 10:** None
   **第 10 周：** 无
 
-### The Complete Power Look Program 完整的 Power Look 计划
+####  The Complete Power Look Program 完整的 Power Look 计划
 
 ![Back](../31d9d1afc7aa7e57f66f199ea77c304051303b0c.jpeg)
 
-#### Week 1 – Day 1 第 1 周 - 第 1 天
+#####  Week 1 – Day 1 第 1 周 - 第 1 天
 
 |      | Exercise 锻炼                                                | Sets 套 | Reps 代表 |
 | :--- | :----------------------------------------------------------- | :------ | :-------- |
@@ -222,7 +222,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two) 可选的奖励工作（选择一项或两项） |         |           |
 | D.   | Leg Press, Leg Extension, Hack Squat 腿举、腿屈伸、哈克深蹲  | 3       | 8-10      |
 
-#### Week 1 – Day 2
+#####  Week 1 – Day 2
 
 |      | Exercise                                                     | Sets | Reps |
 | :--- | :----------------------------------------------------------- | :--- | :--- |
@@ -232,7 +232,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                        |      |      |
 | D.   | Dumbbell Triceps Extension, EZ-Bar Triceps Extension, Rope Triceps Extension | 3    | 8-10 |
 
-#### Week 1 – Day 3
+#####  Week 1 – Day 3
 
 |      | Exercise                                                | Sets | Reps |
 | :--- | :------------------------------------------------------ | :--- | :--- |
@@ -242,7 +242,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                   |      |      |
 | D.   | Barbell or Dumbbell Shrugs, Chin-ups/Pull-ups, Leg Curl | 3    | 8-10 |
 
-#### Week 1 – Day 4
+#####  Week 1 – Day 4
 
 |      | Exercise                                                   | Sets | Reps |
 | :--- | :--------------------------------------------------------- | :--- | :--- |
@@ -252,7 +252,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                      |      |      |
 | D.   | Dumbbell Lateral Raise, Dumbbell Front Raise, Barbell Curl | 3    | 8-10 |
 
-#### Week 2 – Day 1
+#####  Week 2 – Day 1
 
 |      | Exercise                              | Sets | Reps |
 | :--- | :------------------------------------ | :--- | :--- |
@@ -262,7 +262,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two) |      |      |
 | D.   | Leg Press, Leg Extension, Hack Squat  | 3    | 8-10 |
 
-#### Week 2 – Day 2
+#####  Week 2 – Day 2
 
 |      | Exercise                                                     | Sets | Reps |
 | :--- | :----------------------------------------------------------- | :--- | :--- |
@@ -272,7 +272,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                        |      |      |
 | D.   | Dumbbell Triceps Extension, EZ-bar Triceps Extension, Rope Triceps Extension | 3    | 8-10 |
 
-#### Week 2 – Day 3
+#####  Week 2 – Day 3
 
 |      | Exercise                                                | Sets | Reps |
 | :--- | :------------------------------------------------------ | :--- | :--- |
@@ -282,7 +282,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                   |      |      |
 | D.   | Barbell or Dumbbell Shrugs, Chin-ups/Pull-ups, Leg Curl | 3    | 8-10 |
 
-#### Week 2 – Day 4
+#####  Week 2 – Day 4
 
 |      | Exercise                                                   | Sets | Reps |
 | :--- | :--------------------------------------------------------- | :--- | :--- |
@@ -292,7 +292,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                      |      |      |
 | D.   | Dumbbell Lateral Raise, Dumbbell Front Raise, Barbell Curl | 3    | 8-10 |
 
-#### Week 3 – Day 1
+#####  Week 3 – Day 1
 
 |      | Exercise                              | Sets | Reps |
 | :--- | :------------------------------------ | :--- | :--- |
@@ -302,7 +302,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two) |      |      |
 | D.   | Leg Press, Leg Extension, Hack Squat  | 3    | 8-10 |
 
-#### Week 3 – Day 2
+#####  Week 3 – Day 2
 
 |      | Exercise                                                     | Sets | Reps |
 | :--- | :----------------------------------------------------------- | :--- | :--- |
@@ -312,7 +312,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                        |      |      |
 | D.   | Dumbbell Triceps Extension, EZ-bar Triceps Extension, Rope Triceps Extension | 3    | 8-10 |
 
-#### Week 3 – Day 3
+#####  Week 3 – Day 3
 
 |      | Exercise                                                | Sets | Reps |
 | :--- | :------------------------------------------------------ | :--- | :--- |
@@ -322,7 +322,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                   |      |      |
 | D.   | Barbell or Dumbbell Shrugs, Chin-ups/Pull-ups, Leg Curl | 3    | 8-10 |
 
-#### Week 3 – Day 4
+#####  Week 3 – Day 4
 
 |      | Exercise                                                   | Sets | Reps |
 | :--- | :--------------------------------------------------------- | :--- | :--- |
@@ -332,7 +332,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                      |      |      |
 | D.   | Dumbbell Lateral Raise, Dumbbell Front Raise, Barbell Curl | 3    | 8-10 |
 
-#### Week 4 – Day 1
+#####  Week 4 – Day 1
 
 |      | Exercise                              | Sets | Reps |
 | :--- | :------------------------------------ | :--- | :--- |
@@ -342,7 +342,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two) |      |      |
 | D.   | Leg Press, Leg Extension, Hack Squat  | 3    | 8-10 |
 
-#### Week 4 – Day 2
+#####  Week 4 – Day 2
 
 |      | Exercise                                                     | Sets | Reps |
 | :--- | :----------------------------------------------------------- | :--- | :--- |
@@ -352,7 +352,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                        |      |      |
 | D.   | Dumbbell Triceps Extension, EZ-bar Triceps Extension, Rope Triceps Extension | 3    | 8-10 |
 
-#### Week 4 – Day 3
+#####  Week 4 – Day 3
 
 |      | Exercise                                                | Sets | Reps |
 | :--- | :------------------------------------------------------ | :--- | :--- |
@@ -362,7 +362,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                   |      |      |
 | D.   | Barbell or Dumbbell Shrugs, Chin-ups/Pull-ups, Leg Curl | 3    | 8-10 |
 
-#### Week 4 – Day 4
+#####  Week 4 – Day 4
 
 |      | Exercise                                                   | Sets | Reps |
 | :--- | :--------------------------------------------------------- | :--- | :--- |
@@ -372,7 +372,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                      |      |      |
 | D.   | Dumbbell Lateral Raise, Dumbbell Front Raise, Barbell Curl | 3    | 8-10 |
 
-#### Week 5 – Day 1
+#####  Week 5 – Day 1
 
 |      | Exercise                              | Sets | Reps |
 | :--- | :------------------------------------ | :--- | :--- |
@@ -382,7 +382,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two) |      |      |
 | D.   | Leg Press, Leg Extension, Hack Squat  | 3    | 6-8  |
 
-#### Week 5 – Day 2
+#####  Week 5 – Day 2
 
 |      | Exercise                                                     | Sets | Reps |
 | :--- | :----------------------------------------------------------- | :--- | :--- |
@@ -392,7 +392,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                        |      |      |
 | D.   | Dumbbell Triceps Extension, EZ-bar Triceps Extension, Rope Triceps Extension | 3    | 6-8  |
 
-#### Week 5 – Day 3
+#####  Week 5 – Day 3
 
 |      | Exercise                                                | Sets | Reps |
 | :--- | :------------------------------------------------------ | :--- | :--- |
@@ -402,7 +402,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                   |      |      |
 | D.   | Barbell or Dumbbell Shrugs, Chin-ups/Pull-ups, Leg Curl | 3    | 6-8  |
 
-#### Week 5 – Day 4
+#####  Week 5 – Day 4
 
 |      | Exercise                                                     | Sets | Reps |
 | :--- | :----------------------------------------------------------- | :--- | :--- |
@@ -412,7 +412,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                        |      |      |
 | D.   | Dumbbell Lateral Raise, Dumbbell Front Raise, Barbell Curl   | 3    | 6-8  |
 
-#### Week 6 – Day 1
+#####  Week 6 – Day 1
 
 |      | Exercise                              | Sets | Reps |
 | :--- | :------------------------------------ | :--- | :--- |
@@ -422,7 +422,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two) |      |      |
 | D.   | Leg Press, Leg Extension, Hack Squat  | 3    | 6-8  |
 
-#### Week 6 – Day 2
+#####  Week 6 – Day 2
 
 |      | Exercise                                                     | Sets | Reps |
 | :--- | :----------------------------------------------------------- | :--- | :--- |
@@ -432,7 +432,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                        |      |      |
 | D.   | Dumbbell Triceps Extension, EZ-bar Triceps Extension, Rope Triceps Extension | 3    | 6-8  |
 
-#### Week 6 – Day 3
+#####  Week 6 – Day 3
 
 |      | Exercise                                                | Sets | Reps |
 | :--- | :------------------------------------------------------ | :--- | :--- |
@@ -442,7 +442,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                   |      |      |
 | D.   | Barbell or Dumbbell Shrugs, Chin-ups/Pull-ups, Leg Curl | 3    | 6-8  |
 
-#### Week 6 – Day 4
+#####  Week 6 – Day 4
 
 |      | Exercise                                                   | Sets | Reps |
 | :--- | :--------------------------------------------------------- | :--- | :--- |
@@ -452,7 +452,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                      |      |      |
 | D.   | Dumbbell Lateral Raise, Dumbbell Front Raise, Barbell Curl | 3    | 6-8  |
 
-#### Week 7 – Day 1
+#####  Week 7 – Day 1
 
 |      | Exercise                              | Sets | Reps |
 | :--- | :------------------------------------ | :--- | :--- |
@@ -462,7 +462,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two) |      |      |
 | D.   | Leg Press, Leg Extension, Hack Squat  | 3    | 6-8  |
 
-#### Week 7 – Day 2
+#####  Week 7 – Day 2
 
 |      | Exercise                                                     | Sets | Reps |
 | :--- | :----------------------------------------------------------- | :--- | :--- |
@@ -472,7 +472,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                        |      |      |
 | D.   | Dumbbell Triceps Extension, EZ-bar Triceps Extension, Rope Triceps Extension | 3    | 6-8  |
 
-#### Week 7 – Day 3
+#####  Week 7 – Day 3
 
 |      | Exercise                                                | Sets | Reps |
 | :--- | :------------------------------------------------------ | :--- | :--- |
@@ -482,7 +482,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                   |      |      |
 | D.   | Barbell or Dumbbell Shrugs, Chin-ups/Pull-ups, Leg Curl | 3    | 6-8  |
 
-#### Week 7 – Day 4
+#####  Week 7 – Day 4
 
 |      | Exercise                                                   | Sets | Reps |
 | :--- | :--------------------------------------------------------- | :--- | :--- |
@@ -492,7 +492,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                      |      |      |
 | D.   | Dumbbell Lateral Raise, Dumbbell Front Raise, Barbell Curl | 3    | 6-8  |
 
-#### Week 8 – Day 1
+#####  Week 8 – Day 1
 
 |      | Exercise                                      | Sets | Reps |
 | :--- | :-------------------------------------------- | :--- | :--- |
@@ -501,7 +501,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)         |      |      |
 | C.   | Leg Press, Leg Extension, Hack Squat          | 3    | 6-8  |
 
-#### Week 8 – Day 2
+#####  Week 8 – Day 2
 
 |      | Exercise                                                     | Sets | Reps |
 | :--- | :----------------------------------------------------------- | :--- | :--- |
@@ -510,7 +510,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                        |      |      |
 | C.   | Dumbbell Triceps Extension, EZ-Bar Triceps Extension, Rope Triceps Extension. | 3    | 6-8  |
 
-#### Week 8 – Day 3
+#####  Week 8 – Day 3
 
 |      | Exercise                                                | Sets | Reps |
 | :--- | :------------------------------------------------------ | :--- | :--- |
@@ -519,7 +519,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                   |      |      |
 | C.   | Barbell or Dumbbell Shrugs, Chin-ups/Pull-ups, Leg Curl | 3    | 6-8  |
 
-#### Week 8 – Day 4
+#####  Week 8 – Day 4
 
 |      | Exercise                                                   | Sets | Reps |
 | :--- | :--------------------------------------------------------- | :--- | :--- |
@@ -528,7 +528,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                      |      |      |
 | C.   | Dumbbell Lateral Raise, Dumbbell Front Raise, Barbell Curl | 3    | 6-8  |
 
-#### Week 9 – Day 1
+#####  Week 9 – Day 1
 
 |      | Exercise                                      | Sets | Reps |
 | :--- | :-------------------------------------------- | :--- | :--- |
@@ -537,7 +537,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)         |      |      |
 | C.   | Leg Press, Leg Extension, Hack Squat          | 3    | 6-8  |
 
-#### Week 9 – Day 2
+#####  Week 9 – Day 2
 
 |      | Exercise                                                     | Sets | Reps |
 | :--- | :----------------------------------------------------------- | :--- | :--- |
@@ -546,7 +546,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two)                        |      |      |
 | C.   | Dumbbell Triceps Extension, EZ-Bar Triceps Extension, Rope Triceps Extension | 3    | 6-8  |
 
-#### Week 9 – Day 3 第 9 周 - 第 3 天
+#####  Week 9 – Day 3 第 9 周 - 第 3 天
 
 |      | Exercise 锻炼                                                | Sets 套 | Reps 代表 |
 | :--- | :----------------------------------------------------------- | :------ | :-------- |
@@ -555,7 +555,7 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two) 可选的奖励工作（选择一项或两项） |         |           |
 | C.   | Barbell or Dumbbell Shrugs, Chin-ups/Pull-ups, Leg Curl 杠铃或哑铃耸肩、引体向上/引体向上、腿弯举 | 3       | 6-8       |
 
-#### Week 9 – Day 4 第 9 周 - 第 4 天
+#####  Week 9 – Day 4 第 9 周 - 第 4 天
 
 |      | Exercise 锻炼                                                | Sets 套 | Reps 代表 |
 | :--- | :----------------------------------------------------------- | :------ | :-------- |
@@ -564,25 +564,25 @@ Use only assistance movements where you can use more weight than on the main lif
 |      | Optional Bonus Work (pick one or two) 可选的奖励工作（选择一项或两项） |         |           |
 | C.   | Dumbbell Lateral Raise, Dumbbell Front Raise, Barbell Curl 哑铃侧平举、哑铃前平举、杠铃弯举 | 3       | 6-8       |
 
-#### Week 10 – Day 1 第 10 周 - 第 1 天
+#####  Week 10 – Day 1 第 10 周 - 第 1 天
 
 |      | Exercise 锻炼                   | Sets 套 | Reps 代表 |
 | :--- | :------------------------------ | :------ | :-------- |
 | A.   | Front Squat (100%) 前蹲（100%） | 3       | 3         |
 
-#### Week 10 – Day 2 第 10 周 - 第 2 天
+#####  Week 10 – Day 2 第 10 周 - 第 2 天
 
 |      | Exercise 锻炼                   | Sets 套 | Reps 代表 |
 | :--- | :------------------------------ | :------ | :-------- |
 | A.   | Bench Press (100%) 卧推（100%） | 3       | 3         |
 
-#### Week 10 – Day 3 第 10 周 - 第 3 天
+#####  Week 10 – Day 3 第 10 周 - 第 3 天
 
 |      | Exercise 锻炼                | Sets 套 | Reps 代表 |
 | :--- | :--------------------------- | :------ | :-------- |
 | A.   | Deadlift (100%) 硬拉（100%） | 3       | 3         |
 
-#### Week 10 – Day 4 第 10 周 - 第 4 天
+#####  Week 10 – Day 4 第 10 周 - 第 4 天
 
 |      | Exercise 锻炼                 | Sets 套 | Reps 代表 |
 | :--- | :---------------------------- | :------ | :-------- |
