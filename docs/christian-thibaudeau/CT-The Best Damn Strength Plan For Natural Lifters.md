@@ -85,7 +85,7 @@ With all this in mind, let’s dive into the plan.
 
 
 
-![Lift](../images/86d15b42e46c810d98a298ef1f937fea7afe2b5b_2_707x289.jpeg)
+![Lift](../images/86d15b42e46c810d98a298ef1f937fea7afe2b5b_2_707x289.webp)
 
 Lift1000×409 83.9 KB Lift 1000×409 83.9 KB
 
@@ -274,7 +274,7 @@ Here’s Anthony Campbell demonstrating the rest/pause method:
 
 
 
-![Rest-Pause Method](../images/8bb2969180727a7e2965a57cc930498f70070076.jpeg)
+![Rest-Pause Method](../images/8bb2969180727a7e2965a57cc930498f70070076.webp)
 
 [Rest-Pause Method 休息-暂停法](https://www.youtube.com/watch?v=LYrXWYcgnyw)
 
@@ -299,7 +299,7 @@ Here’s what it looks like in action:
 
 
 
-![mTOR Method](../images/09782a808555e724b3e82451fa6a2bdd11a75b99.jpeg)
+![mTOR Method](../images/09782a808555e724b3e82451fa6a2bdd11a75b99.webp)
 
 [mTOR Method mTOR 方法](https://www.youtube.com/watch?v=GeiZKG5Bs8s)
 
@@ -318,7 +318,7 @@ Start by doing as many reps as you can with that weight, then rest 20 seconds an
 
 
 
-![Myo Reps Method](../images/1e2b2a7ed1f3f28943334f3d4472341c5af34e30.jpeg)
+![Myo Reps Method](../images/1e2b2a7ed1f3f28943334f3d4472341c5af34e30.webp)
 
 [Myo Reps Method Myo Reps 方法](https://www.youtube.com/watch?v=8b8Ddq_V2YU)
 
