@@ -27,7 +27,7 @@ Based on the results of this experiment, I bet the following would be one kick-a
 
 
 
-![image-20250722105113550](../image-20250722105113550-1753195616092-2.png)
+![image-20250722105113550](../image-20250722105113550.png)
 
 ![image-20250724215547467](../image-20250724215547467.png)
 
