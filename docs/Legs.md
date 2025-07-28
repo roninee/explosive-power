@@ -1,4 +1,32 @@
-# 🦵Legs
+## 🦵Legs——最好不要超过四个动作
+
+
+
+## Snath or Clearn as Beginning
+
+* 血与镁粉 对于增大斜方肌有效，而且他从不练习耸肩，他的斜方肌比90%的人要好
+* Thib 也是强烈推荐
+* 作为开始动作是因为，这是个爆发力动作, 对神经要求也高
+
+## BB Front & Back Squat 
+
+* **哑铃前平举** 激活 核心
+
+## Trap Bar
+
+* 安全， thib 也练习这个
+
+## ~~DeadLift~~
+
+* not good for back
+
+## Single Leg
+
+## 农夫走
+
+## 山羊挺身
+
+
 
 一定要同时包含以膝盖为主的变体（例如分腿蹲）和以臀部为主的模式（例如 RDL），以涵盖所有基础——在6 patterns中有提到
 
