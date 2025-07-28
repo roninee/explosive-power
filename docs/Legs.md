@@ -29,8 +29,9 @@
 
 ## Exercises
 
-### Snath or Clearn as Beginning
+### Snath or  Clearn as Beginning
 
+* *snatch grip deadlift*_thib 推荐所有普通人用这个来替代举重台高抓
 * 血与镁粉 对于增大斜方肌有效，而且他从不练习耸肩，他的斜方肌比90%的人要好
 * Thib 也是强烈推荐
 * 作为开始动作是因为，这是个爆发力动作, 对神经要求也高

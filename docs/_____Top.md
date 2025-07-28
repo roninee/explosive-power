@@ -2,6 +2,10 @@
 
 这不是开玩笑，或者哲学
 
+# best exercises
+
+ For athletes I' d say the *power snatch from blocks*. For regular individuals and bodybuilders, I' d go with *snatch grip deadlift and push press.*
+
 
 
 ## What I Want

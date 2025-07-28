@@ -1,6 +1,7 @@
 * side 绳索侧拉或者哑铃
 * 后面：单侧蝴蝶机
 * face pull
+* push press——thib建议
 
 ##  Athlean-X
 
