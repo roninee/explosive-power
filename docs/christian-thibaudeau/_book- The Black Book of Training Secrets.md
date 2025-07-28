@@ -64,8 +64,11 @@ CT：西部杠铃选手利用卧推和深蹲进行爆发力训练，因为这就
 T：好吧，这可能听起来有点疯狂，说到爆发力训练，我曾经读过一些文章说在卧推时要让杠铃脱手，再接住。这是真实有效的训练还是只是一个自杀式的炫耀？
 
 CT：你应该提到它很有趣！我曾经见过**很多运动员进行某种杠铃上抛训练**。事实上，Alexeyev 自己就会进行一种叫“抓举抛掷”的训练，将杠铃高抛出去，这有几分类似壮汉和 Highland Game 运动员的抛物训练。
+CT: Funny you should mention that! I’ve seen a form of **bar throwing** drill performed by many athletes. In fact, Alexeyev himself used what he called "**snatch throws**" in which he'd throw the bar for height, kinda like strongmen and highland game athletes who throw objects for height.
+
 
 我也见过Adam Archuletta 进行杠铃上抛，他使用的是一个类似于史密斯机的精妙装置。我**讨厌史密斯机，但**我相信**杠铃上抛**训练可以作为史密斯机的一个运用实例。我自己就曾经尝试过。我将**针对上肢的杠铃上抛和深蹲跳（针对下肢）视为同等的训练动作**，因此，建议用你**卧推最大重量的20-30%进行训练**。
+I’ve also seen Adam Archuletta perform **bench press throws**, but he was using a contraption similar to a Smith machine. I hate the Smith machine, but I believe this is one instance in which it might actually be useful. I've used this drill myself. I equate it to a jump squat for the upper body and thus recommend using 20 to 30% of your max bench press.
 
 ...
 
@@ -80,14 +83,9 @@ CT：没有真正“糟糕”的训练动作。任何训练都比不运动好。
 
 但是确实有一些练了比不练也好不到哪里去的动作！我*个人不太赞同任何含有“使用史密斯机”*字样的句子。
 
-
-
-T:
- 训练的精神或心理方面呢?
+T: 训练的精神或心理方面呢?
  有什么有趣的技巧或小窍门可以应用到我们的训练中吗?
-CT:
-
- **最重要的是让运动员达到最佳的兴奋状态。唤醒太少, 强度会受到影响; 唤醒太多, 你可能会因为“过度训练” 而筋疲力尽。**
+CT: **最重要的是让运动员达到最佳的兴奋状态。唤醒太少, 强度会受到影响; 唤醒太多, 你可能会因为“过度训练” 而筋疲力尽。**
  我见过举重运动员在高强度训练前撞头大喊。 这可不行! 短期内可能有帮助, 但⻓期来看可能有害。 **我更喜欢专注自信的方式。**
 
 所以我不太喜欢麻黄素和咖啡因的叠加,  因为我觉得它们会导致精神过度亢奋。 不过, 我相信动力驱动能帮助你进入那种
