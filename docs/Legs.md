@@ -22,6 +22,15 @@
 
 ## Single Leg
 
+难度排行
+
+1. Split Squat
+2. **Back Foot Elevated Split Squat——保加利亚分腿蹲**
+3. Front Foot Elevated Split Squat
+4. ~~**Reverse Lunge**——肩部不稳导致疼痛，暂时不做~~
+5. ~~Forward Lunge~~ ——对膝盖压力大
+6. **Single Leg Deadlift**
+
 ## 农夫走
 
 ## 山羊挺身
