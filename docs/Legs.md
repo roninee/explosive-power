@@ -24,6 +24,9 @@
 
 *注意肩部不要往前，会导致疼痛*
 
+* 功能性
+* Lunge of  6 patterns
+
 难度排行
 
 1. Split Squat
@@ -36,6 +39,8 @@
 ## 农夫走
 
 *注意肩部不要往前，会导致疼痛*
+
+* Carry of  6 patterns
 
 ## 山羊挺身
 
