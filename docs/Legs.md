@@ -1,4 +1,9 @@
-# 🦵Legs
+## Mike Boyle had eliminated barbell back squats from his athlete’s programming
+
+the Bulgarian split squat, also known as the rear-foot elevated split squat (RFESS) and its many derivatives
+他们用专注于单侧训练的保加利亚分腿蹲（又称后脚抬高分腿蹲，RFESS）及其众多衍生动作取代了杠铃后蹲。
+
+**这非常重要，意味着自己不必追求极限重量，追求速度，爆发力就行了**
 
 ## Tips
 
