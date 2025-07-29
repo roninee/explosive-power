@@ -1,3 +1,20 @@
+## 关于卧推 thib 西部杠铃等人的计划 
+
+* 由于力量举的历史，这些人把卧推当作upper body的*核心*，而mma不需要这些，自己也不喜欢
+* vince Gironda时期也是以身体美感作为目标，而不是绝对的块头
+* 上体推类确实非常重要，考虑到自己工作压力很大了，不需要健身房太大的压力，而卧推对手腕，肩膀的压力非常大，自己的胳膊长，卧推轨道长，导致也非常不舒服
+* 胸肌动作以*俯卧撑(weighted) 哑铃incline press、dip、Vince Gironda ——哑铃incline press*可以，但是杠铃incline press，因我对肩部压力依然非常大
+
+## upper press 相关三个肌肉
+
+* chest——俯卧撑(weighted) 哑铃incline press、dip、Vince Gironda dip
+* 肱三头肌——
+* 三角肌前束——push press 借力推举，thib 非常推荐，这也是唯一动作
+
+**只有chest是大肌群，每节课至少要有一个动作，其它两个不需要每次都练到**
+
+不需要硕大的胸部，街头健身的胸肌酒足够了
+
 ## 为什么 chest , 三角肌，肱三头肌放一起
 
 * 都属于上体推类 
