@@ -34,7 +34,7 @@ https://link.zhihu.com/?target=http%3A//www.t-nation.com/free_online_article/mos
 
 ·胸前持实心球投掷
 
-·力量抓举（使用极限重量的60-70%）
+·力量抓举 Power Snatch（使用极限重量的60-70%）
 
 **组数和次数**：做3-5组。重物训练动作，每组做3次；投掷动作，每组做5次。
 

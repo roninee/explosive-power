@@ -20,7 +20,7 @@
 
 在每节推类动作训练课的开始，安排一个活化动作。目标是唤醒神经系统，使[推类动作](https://zhida.zhihu.com/search?content_id=9178945&content_type=Article&match_order=2&q=推类动作&zhida_source=entity)相关肌肉为接下来的力量训练做好准备。因此，不要使用太大的重量，以避免疲劳。此外，你需要采用**爆发力explosive**动作。我选择的动作是：
 
-·力量抓举（使用极限重量的60-70%）
+·力量抓举Power Snatch（使用极限重量的60-70%）
 
 ·Power cling（译注：我猜想可能是Power clean——力量翻的另一种写法）（使用极限重量的40%）
 
