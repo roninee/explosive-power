@@ -50,7 +50,7 @@ example 1 :
 > I added in some lat, rear delt, and romboid work between every 2nd or 3rd set yesterday, and that worked well. My quads, adductors, and traps are sore today, but I expected that. Completed my first NC workout today as well toulck about 12-15 minutes or so.
 > 昨天我每两组或三组之间加练背阔肌、三角肌后束和菱形肌，效果不错。今天我的股四头肌、内收肌和斜方肌酸痛，不过这在我预料之中。今天也完成了我的第一次 NC 训练，大概 12-15 分钟左右。
 
-## 重要的是进步
+## 重要的是每节课进步
 
 这不是开玩笑，或者哲学
 
