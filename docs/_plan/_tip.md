@@ -106,9 +106,11 @@ example 1 :
 
 ## 动作模式 关节活动
 
-![image-20250731095634372](../images/image-20250731095634372.png)
+![image-20250731111012637](../images/image-20250731111012637.png)
 
 
+
+![image-20250731110807874](../images/image-20250731110807874.png)
 
 ## 6 foundational movement patterns
 
