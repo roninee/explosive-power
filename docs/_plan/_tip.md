@@ -112,6 +112,10 @@ example 1 :
 
 ![image-20250731110807874](../images/image-20250731110807874.png)
 
+![image-20250731112123396](../images/image-20250731112123396.png)
+
+
+
 ## 6 foundational movement patterns
 
 - Squat: Barbell Front Squat，Barbell Front Squat

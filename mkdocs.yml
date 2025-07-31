@@ -8,7 +8,7 @@ theme:
   - content.code.copy
   - search.suggest
   - search.highlight
-  # - toc.integrate
+  - toc.integrate
   palette:
 
     # Palette toggle for light mode
