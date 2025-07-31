@@ -38,6 +38,16 @@ These are the only exercises where you don’t push close to your limit. Do more
 
 
 
+## 白天手術房晚上健身房
+
+背阔肌唯一：**引体向上**，完美符合背阔肌功能
+
+如果拉不起来：就**单手**滑轮**下拉**，或者水平。
+
+哑铃杠铃划船统统拿掉
+
+
+
 ##  Thib
 
 | 类别               | Primary                                                      | Secondary                                                    | Auxiliary                                                    | Remedial                                                     |
