@@ -30,7 +30,8 @@ not_in_nav: |
 extra_css:
   - stylesheets/extra.css
 plugins:
-  - search # necessary for search to work
+  - search:
+      separator: '[\s\u200b\-]'
   # - awesome-pages
   - awesome-nav
   - tags:
