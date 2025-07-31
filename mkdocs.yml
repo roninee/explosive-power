@@ -31,7 +31,10 @@ extra_css:
   - stylesheets/extra.css
 plugins:
   - search:
-      separator: '[\s\u200b\-]'
+      lang:
+          - en
+          - ja
+      separator: '[\s\-\.]+'
   # - awesome-pages
   - awesome-nav
   - tags:
