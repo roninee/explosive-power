@@ -36,6 +36,17 @@ These are the only exercises where you don’t push close to your limit. Do more
 * t杠下拉（似乎是45度倾斜）
 * 插拔式水平划船
 
+## Get A Huge Back With Only 3 Exercises 
+
+eugene teo
+
+0-3 RIR：  **0-3 RIR** 是指 **Reps in Reserve**，也就是**保留次数**。它是一种衡量训练强度的常用方法，表示你在完成一组动作后，距离力竭（即无法再用标准姿势完成一次动作）还有多少次的余力。
+
+1. warm up with pull Downs(下拉)
+2. A1 pull-ups   4sets  of 8-15 reps 60s rest 0-3 RIR,  ——下降时要控制，很慢很慢，本质上就是慢速离心收缩，刺激肌肉，不是顶峰pause。
+3. B1 Lat prayer   4sets  of 8-15 reps，60s rest, weight 47 0-3 RIR——*很像斜前方拉下来的机器，李茶也也很推荐*
+4. C1  smith machine deficit flexion row   4sets  of 10-15 reps 90s rest,  0-3 RIR
+
 
 
 ## 白天手術房晚上健身房
