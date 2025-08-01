@@ -83,7 +83,7 @@ The power snatch is obviously a complex lift. Remember my cautionary note – if
 - **To build maximum power and explosiveness:** Use a load that's 70-80% of your 1RM. We want all reps to be violently explosive, so sets of 2-3 reps are best.
   **打造最大力量和爆发力：** 使用 1RM 的 70-80% 的负荷。我们希望每次训练都充满爆发力，所以 2-3 组为最佳。
 
-4. ## dip3——Best Exercise To Build A Big Chest 
+4. ## dip——Best Exercise To Build A Big Chest 
 
 ![John-Schlect-Dips](../images/22f9d0a14f265f94b219f71ef2469024b07e7616_2_707x289.jpeg)
 
@@ -152,7 +152,7 @@ It can also help get you leaner because it has a high-energy demand, involves so
 - **To build or maintain muscle size and burn fat:** Do 5 sets of 3-5 reps. More than that and it turns into a metabolic conditioning exercise.
   **想要增肌或保持肌肉量并燃烧脂肪：** 做 5 组，每组 3-5 次。超过 5 组，就变成了代谢调节训练。
 
-### 7. Best Exercise To Test Athleticism 7. 测试运动能力的最佳运动
+### 7. Best Exercise To Test Athleticism 测试运动能力的最佳运动
 
 When you're a strength coach working with groups of athletes you often have to test your athletes to know where they are and who has the most potential. Coaches will use tons of tests and the testing of a team will often take 4 hours or more.
 当你是一名力量教练，与一群运动员一起训练时，你经常需要对运动员进行测试，以了解他们的水平以及谁最有潜力。教练会进行大量的测试，而对一个团队的测试通常需要4个小时甚至更长时间。
