@@ -2,7 +2,7 @@
 
 ## Current Problem：
 
-* leg day 之后体姿很好，但是upper day 却后退了，看来是农夫走，和深蹲时候，缩紧肩胛骨的功劳， uppder day 需要调整，或者face pull的原因——是face pull 的原因
+* leg day 之后体姿很好，但是upper day 却后退了，看来是农夫走，和深蹲时候，缩紧肩胛骨的功劳， uppder day 需要调整，或者face pull的原因——是face pull 的原因——face pull 太轻了，这次背部没有反应。
 * 一节课就是40-60分钟，教练再次提醒我，我的时间绝对有问题，或者是效率
 * 核心太差，腰腹两个地方都不行
 * 髋部灵活性

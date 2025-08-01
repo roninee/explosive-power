@@ -14,7 +14,7 @@
 One cautionary note before you jump into this list of favorites. I'm assuming you're using proper form on all of them. A great movement can be turned into something totally worthless if not done properly.
 在你开始阅读这份最爱动作清单之前，需要注意一点。我假设你所有动作都使用了正确的姿势。如果动作不当，再好的动作也可能变得毫无价值。
 
-### 1. Best Exercise to Make You Look “Yoked” 1. 让你看起来“有轭”的最佳运动
+### 1. snatch-grip high pull——Best Exercise to Make You Look “Yoked” 
 
 The yoked look comes from the “shoulder pad” area. It's the size and thickness of the delts, traps, and mid-back. They're the muscles that make you look visually intimidating and scream power.
 轭式外观源自“肩垫”区域。它指的是三角肌、斜方肌和中背部的大小和厚度。这些肌肉让你看起来极具视觉冲击力，展现出强大的力量。
@@ -28,13 +28,11 @@ For the high pull, focus on exploding upwards with the lower body and hips to cr
 - **To gain massive size:** Do sets of 3 to 5 reps.
   **要获得巨大的尺寸：** 做 3 到 5 组。
 
+2.farmer's walk —— Best Exercise To Get You Ripped 2. 让你拥有健美身材的最佳运动
 
-
-![Farmers-Walk](../images/ccd3939ca4165112b737e608f223e9c6d471c40e_2_707x289.jpeg)
+![Farmers-Walk](../images/ccd3939ca4165112b737e608f223e9c6d471c40e_2_707x289-1754028385297-1.jpeg)
 
 Farmers-Walk1000×409 136 KB 农民步行 1000×409 136 KB
-
-### 2. Best Exercise To Get You Ripped 2. 让你拥有健美身材的最佳运动
 
 While some love the Prowler or sled to keep fat at bay, I prefer the farmer's walk carry. Why? Two reasons:
 虽然有些人喜欢用推车或雪橇来控制脂肪，但我更喜欢农夫行走。为什么？原因有两个：
@@ -68,7 +66,7 @@ You will also experience growth in those muscles because of the occluded stretch
 
 Power-Snatch1000×409 112 KB Power-Snatch 1000×409 112 KB
 
-### 3. Best Exercise To Be A Solid Power Athlete 3. 成为力量型运动员的最佳训练
+### 3. power snatch ——Best Exercise To Be A Solid Power Athlete 
 
 The power snatch from the hang. A power athlete is someone competing in sports requiring a high level of speed and explosiveness like football, sprinting, throwing, or jumping events.
 悬挂式力量抓举。力量型运动员是指参加需要高速度和爆发力的运动项目的运动员，例如足球、短跑、投掷或跳跃项目。
@@ -85,13 +83,11 @@ The power snatch is obviously a complex lift. Remember my cautionary note – if
 - **To build maximum power and explosiveness:** Use a load that's 70-80% of your 1RM. We want all reps to be violently explosive, so sets of 2-3 reps are best.
   **打造最大力量和爆发力：** 使用 1RM 的 70-80% 的负荷。我们希望每次训练都充满爆发力，所以 2-3 组为最佳。
 
-
+4. ## dip3——Best Exercise To Build A Big Chest 
 
 ![John-Schlect-Dips](../images/22f9d0a14f265f94b219f71ef2469024b07e7616_2_707x289.jpeg)
 
 John-Schlect-Dips1000×409 99.7 KB 约翰-施莱克特-迪普斯 1000×409 99.7 KB
-
-### 4. Best Exercise To Build A Big Chest 4. 打造丰满胸部的最佳运动
 
 The dip builds the best pecs.
 屈伸运动可以锻炼出最佳的胸肌。
@@ -114,13 +110,11 @@ When you dip down you should flare your lats – think of rubbing the inner part
 - **To build a big chest:** Do full-range dips with an additional load of 50% bodyweight for 6-8 reps.
   **要打造大胸肌：** 进行全方位屈伸，并额外增加 50% 体重的负荷，重复 6-8 次。
 
-
+## 5. deadlift——Best Exercise To Get Strong 
 
 ![Deadlift](../images/4a8a7dbfeea50f914f63c370c75623a9d17eced1_2_707x289.jpeg)
 
 Deadlift1000×409 132 KB 硬拉 1000×409 132 KB
-
-### 5. Best Exercise To Get Strong 5. 增强体质的最佳运动
 
 Talk to every competitive strongman and ask him what his most important barbell lift is, and 9 times out of 10, you'll get one answer: the deadlift.
 与每一位竞技大力士交谈并询问他最重要的杠铃举重是什么，十有八九你会得到一个答案：硬拉。
@@ -140,13 +134,11 @@ Becoming strong in the deadlift is the best way for 90% of the population to bec
 - **To build maximum strength:** I like doing a deadlift workout that I saw Canadian strongest man Jean-Francois Caron do. He would max out on rack deadlifts (bar starting just below the knees) and then do 6 sets of 3 reps of floor deadlifts. Caron has deadlifted over 900 pounds for reps, so it's hard to find fault with this plan!
   **为了打造极限力量：** 我喜欢做加拿大最强壮男人 Jean-Francois Caron 做的硬拉训练。他会先进行架上硬拉（杠铃从膝盖下方开始），然后做 6 组，每组 3 次的地板硬拉。Caron 的硬拉次数超过 900 磅，所以这个计划很难挑剔！
 
-
+## 6. clean and press——Best Exercise For The Time Constrained 6. 时间有限的最佳锻炼方式
 
 ![CT-Cleans](../images/0ce5bf0633bc229f52c4fcd4246a52b1af1f0736_2_707x289.jpeg)
 
 CT-Cleans1000×409 131 KB CT-Cleans 1000×409 131 KB
-
-### 6. Best Exercise For The Time Constrained 6. 时间有限的最佳锻炼方式
 
 If you only had time to do one session of 10 minutes per week and could only do one lift, what would you do? I'd do 5 sets of 3-5 reps on the clean and press – specifically a power clean from the hang followed by a push press – with about 60-75 seconds of rest between sets.
 如果你每周只有10分钟的时间进行一次训练，而且只能做一项举重动作，你会做什么？我会做5组，每组3-5次的挺举和推举——具体来说，是先进行悬挂式力量挺举，然后进行借力推举——每组之间休息60-75秒。
